@@ -1,0 +1,273 @@
+{
+ "updated": "2026-11-07",
+ "note": "Prices in EGP from published Egyptian market reports. Refreshed daily.",
+ "items": [
+  {
+   "id": "rebar_ezz",
+   "g": "steel",
+   "en": "Rebar · Ezz Steel",
+   "ar": "حديد عز",
+   "u": "ton",
+   "uAr": "طن",
+   "key": true,
+   "h": [
+    {
+     "d": "2026-10-20",
+     "p": 40000,
+     "src": "Al Tareeq"
+    },
+    {
+     "d": "2026-11-04",
+     "p": 40000,
+     "src": "Cairo Mubasher"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 40850,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "rebar_beshay",
+   "g": "steel",
+   "en": "Rebar · Beshay",
+   "ar": "حديد بشاي",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-04",
+     "p": 39800,
+     "src": "Cairo Mubasher"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 40200,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "rebar_suez",
+   "g": "steel",
+   "en": "Rebar · Suez Steel",
+   "ar": "حديد السويس",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-06",
+     "p": 39950,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "rebar_marakby",
+   "g": "steel",
+   "en": "Rebar · El Marakby",
+   "ar": "حديد المراكبي",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-06",
+     "p": 39800,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "rebar_garhy",
+   "g": "steel",
+   "en": "Rebar · El Garhy",
+   "ar": "حديد الجارحي",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-06",
+     "p": 39200,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "rebar_masriyeen",
+   "g": "steel",
+   "en": "Rebar · El Masriyeen",
+   "ar": "حديد المصريين",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-06",
+     "p": 38500,
+     "src": "Aqarat (see.news)"
+    }
+   ]
+  },
+  {
+   "id": "cem_grey",
+   "g": "cement",
+   "en": "Grey cement · market",
+   "ar": "الأسمنت الرمادي · السوق",
+   "u": "ton",
+   "uAr": "طن",
+   "key": true,
+   "h": [
+    {
+     "d": "2026-11-03",
+     "p": 3937,
+     "src": "Al Banker"
+    },
+    {
+     "d": "2026-11-04",
+     "p": 4087,
+     "src": "Al Banker"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 4200,
+     "src": "see.news"
+    }
+   ]
+  },
+  {
+   "id": "cem_suez",
+   "g": "cement",
+   "en": "Grey cement · Suez (factory)",
+   "ar": "أسمنت السويس · المصنع",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-04",
+     "p": 3880,
+     "src": "Al Banker"
+    }
+   ]
+  },
+  {
+   "id": "cem_helwan",
+   "g": "cement",
+   "en": "Grey cement · Helwan (factory)",
+   "ar": "أسمنت حلوان · المصنع",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-04",
+     "p": 3850,
+     "src": "Al Banker"
+    }
+   ]
+  },
+  {
+   "id": "cem_white",
+   "g": "cement",
+   "en": "White cement",
+   "ar": "الأسمنت الأبيض",
+   "u": "ton",
+   "uAr": "طن",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-11-04",
+     "p": 5425,
+     "src": "Al Banker",
+     "lo": 5400,
+     "hi": 5450
+    }
+   ]
+  },
+  {
+   "id": "rmx_b250",
+   "g": "concrete",
+   "en": "Ready-mix B250",
+   "ar": "خرسانة جاهزة B250",
+   "u": "m³",
+   "uAr": "م³",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-10-10",
+     "p": 3549,
+     "src": "Al Sakr"
+    }
+   ]
+  },
+  {
+   "id": "rmx_b300",
+   "g": "concrete",
+   "en": "Ready-mix B300",
+   "ar": "خرسانة جاهزة B300",
+   "u": "m³",
+   "uAr": "م³",
+   "key": true,
+   "h": [
+    {
+     "d": "2026-10-10",
+     "p": 3900,
+     "src": "Al Sakr"
+    }
+   ]
+  },
+  {
+   "id": "brick_red",
+   "g": "brick",
+   "en": "Red perforated brick 25×12×12",
+   "ar": "طوب أحمر مفرغ 25×12×12",
+   "u": "1,000 bricks",
+   "uAr": "ألف طوبة",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-10-22",
+     "p": 3855,
+     "src": "Al Banker"
+    }
+   ]
+  },
+  {
+   "id": "sand",
+   "g": "agg",
+   "en": "Fine sand",
+   "ar": "رمل ناعم",
+   "u": "m³",
+   "uAr": "م³",
+   "key": false,
+   "h": [
+    {
+     "d": "2026-10-22",
+     "p": 630,
+     "src": "Al Banker"
+    }
+   ]
+  },
+  {
+   "id": "gravel",
+   "g": "agg",
+   "en": "Gravel (sen)",
+   "ar": "زلط سن",
+   "u": "m³",
+   "uAr": "م³",
+   "key": true,
+   "h": [
+    {
+     "d": "2026-10-22",
+     "p": 530,
+     "src": "Al Banker"
+    }
+   ]
+  }
+ ]
+}
