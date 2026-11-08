@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "note": "Prices in EGP from published Egyptian market reports. Refreshed daily.",
  "items": [
   {
@@ -25,6 +25,12 @@
      "d": "2026-11-06",
      "p": 40850,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 40850,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -46,6 +52,12 @@
      "d": "2026-11-06",
      "p": 40200,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 40200,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -62,6 +74,12 @@
      "d": "2026-11-06",
      "p": 39950,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 39950,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -78,6 +96,12 @@
      "d": "2026-11-06",
      "p": 39800,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 39800,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -94,6 +118,12 @@
      "d": "2026-11-06",
      "p": 39200,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 39200,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -110,6 +140,12 @@
      "d": "2026-11-06",
      "p": 38500,
      "src": "Aqarat (see.news)"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 38500,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1388097"
     }
    ]
   },
@@ -136,6 +172,12 @@
      "d": "2026-11-06",
      "p": 4200,
      "src": "see.news"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 4200,
+     "src": "Masry Post",
+     "url": "https://www.msrypost.com/48116"
     }
    ]
   },
@@ -158,6 +200,12 @@
      "p": 3950,
      "src": "Al Banker",
      "url": "https://www.banker.news/159211"
+    },
+    {
+     "d": "2026-11-08",
+     "p": 3950,
+     "src": "Masry Post",
+     "url": "https://www.msrypost.com/48116"
     }
    ]
   },
@@ -174,6 +222,12 @@
      "d": "2026-11-04",
      "p": 3850,
      "src": "Al Banker"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 3900,
+     "src": "Al Banker",
+     "url": "https://banker.news/159399"
     }
    ]
   },
