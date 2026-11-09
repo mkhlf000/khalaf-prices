@@ -1,0 +1,23 @@
+{
+ "updated": "2026-11-09",
+ "area": {"en": "Nasr City, Cairo · apartments", "ar": "مدينة نصر، القاهرة · شقق"},
+ "price": {"lo": 25000, "hi": 40000, "mid": 32500, "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
+ "growth": {"lo": 14, "hi": 18, "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
+ "premium": {"lo": 25, "hi": 45},
+ "build": {"skeleton": {"lo": 3500, "hi": 5500}, "semi": {"lo": 5500, "hi": 7500}, "full": {"lo": 7500, "hi": 12000}, "finish": {"lo": 5500, "hi": 10750, "mid": 7000}, "src": "Aqaar24", "url": "https://aqaar24.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8-%D8%B9%D8%B8/", "d": "2026-08-24"},
+ "comps": [
+  {"en": "6th Zone, 280 m²", "ar": "الحي السادس، 280 م²", "m2": 280, "p": 6500000},
+  {"en": "8th Zone, 220 m²", "ar": "الحي الثامن، 220 م²", "m2": 220, "p": 6500000},
+  {"en": "8th Zone, 130 m²", "ar": "الحي الثامن، 130 م²", "m2": 130, "p": 3900000},
+  {"en": "1st Zone, Abbas El Akkad, 220 m²", "ar": "المنطقة الأولى، عباس العقاد، 220 م²", "m2": 220, "p": 8500000}
+ ],
+ "news": [
+  {"en": "Nasr City apartments are estimated at EGP 25,000 to 40,000 per m²; a typical home sells for EGP 2.5 to 6 million.", "ar": "تُقدَّر شقق مدينة نصر بين 25,000 و40,000 جنيه للمتر، والشقة المعتادة تُباع بين 2.5 و6 ملايين جنيه.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
+  {"en": "Cairo prices are about 14% to 18% higher than a year ago in pounds, but growth is slower than in 2023 and 2024 and resale demand is cooling.", "ar": "أسعار القاهرة أعلى بنحو 14% إلى 18% عن العام الماضي بالجنيه، لكن الارتفاع أبطأ من 2023 و2024 والطلب على إعادة البيع يهدأ.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
+  {"en": "Asking prices on resale listings run about 7% to 12% above the final sale price. Expect buyers to negotiate.", "ar": "الأسعار المعروضة في إعادة البيع أعلى بنحو 7% إلى 12% من سعر البيع النهائي. توقَّع تفاوض المشترين.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
+  {"en": "Asking prices seen in older Nasr City zones: 6th and 8th Zone flats at roughly EGP 23,000 to 30,000 per m², Abbas El Akkad near 38,600.", "ar": "أسعار معروضة في أحياء مدينة نصر القديمة: شقق الحي السادس والثامن بين نحو 23,000 و30,000 جنيه للمتر، وعباس العقاد نحو 38,600.", "src": "Property Finder", "url": "https://www.propertyfinder.eg/en/buy/cairo/apartments-for-sale-nasr-city.html", "d": "2026-11-09"},
+  {"en": "Contractor rates: skeleton EGP 3,500 to 5,500 per m², with Cairo at the top of the range; semi-finished 5,500 to 7,500.", "ar": "أسعار المقاولات: الهيكل بين 3,500 و5,500 جنيه للمتر، والقاهرة في أعلى النطاق؛ نصف التشطيب بين 5,500 و7,500.", "src": "Aqaar24", "url": "https://aqaar24.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8-%D8%B9%D8%B8/", "d": "2026-08-24"}
+ ],
+ "outlook": {"en": "Prices in Cairo are still rising in pounds, but more slowly than in the last two years, and buyers negotiate harder. New buildings sell at a premium over old stock. High building costs and expensive financing remain the main risks.", "ar": "الأسعار في القاهرة ما زالت ترتفع بالجنيه، لكن أبطأ من العامين الماضيين، والمشترون يفاوضون أكثر. المباني الجديدة تُباع بعلاوة عن القديمة. ارتفاع تكلفة البناء وغلاء التمويل هما أكبر المخاطر."},
+ "h": [{"d": "2026-11-09", "lo": 25000, "hi": 40000}]
+}
