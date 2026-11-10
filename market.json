@@ -1,23 +1,145 @@
 {
- "updated": "2026-11-09",
- "area": {"en": "Nasr City, Cairo · apartments", "ar": "مدينة نصر، القاهرة · شقق"},
- "price": {"lo": 25000, "hi": 40000, "mid": 32500, "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
- "growth": {"lo": 14, "hi": 18, "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
- "premium": {"lo": 25, "hi": 45},
- "build": {"skeleton": {"lo": 3500, "hi": 5500}, "semi": {"lo": 5500, "hi": 7500}, "full": {"lo": 7500, "hi": 12000}, "finish": {"lo": 5500, "hi": 10750, "mid": 7000}, "src": "Aqaar24", "url": "https://aqaar24.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8-%D8%B9%D8%B8/", "d": "2026-08-24"},
+ "updated": "2026-11-10",
+ "area": {
+  "en": "Nasr City, Cairo · apartments",
+  "ar": "مدينة نصر، القاهرة · شقق"
+ },
+ "price": {
+  "lo": 25000,
+  "hi": 40000,
+  "mid": 32500,
+  "src": "Sands of Wealth",
+  "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market",
+  "d": "2026-09-21"
+ },
+ "growth": {
+  "lo": 14,
+  "hi": 18,
+  "src": "Sands of Wealth",
+  "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market",
+  "d": "2026-09-21"
+ },
+ "premium": {
+  "lo": 25,
+  "hi": 45
+ },
+ "build": {
+  "skeleton": {
+   "lo": 3500,
+   "hi": 5500
+  },
+  "semi": {
+   "lo": 5500,
+   "hi": 7500
+  },
+  "full": {
+   "lo": 7500,
+   "hi": 12000
+  },
+  "finish": {
+   "lo": 5500,
+   "hi": 10750,
+   "mid": 7000
+  },
+  "src": "Aqaar24",
+  "url": "https://aqaar24.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8-%D8%B9%D8%B8/",
+  "d": "2026-08-24"
+ },
  "comps": [
-  {"en": "6th Zone, 280 m²", "ar": "الحي السادس، 280 م²", "m2": 280, "p": 6500000},
-  {"en": "8th Zone, 220 m²", "ar": "الحي الثامن، 220 م²", "m2": 220, "p": 6500000},
-  {"en": "8th Zone, 130 m²", "ar": "الحي الثامن، 130 م²", "m2": 130, "p": 3900000},
-  {"en": "1st Zone, Abbas El Akkad, 220 m²", "ar": "المنطقة الأولى، عباس العقاد، 220 م²", "m2": 220, "p": 8500000}
+  {
+   "en": "7th Zone, near Nasr City Court, 200 m²",
+   "ar": "الحي السابع، قرب محكمة مدينة نصر، 200 م²",
+   "m2": 200,
+   "p": 4500000
+  },
+  {
+   "en": "7th Zone, main street, 220 m²",
+   "ar": "الحي السابع، شارع رئيسي، 220 م²",
+   "m2": 220,
+   "p": 5000000
+  },
+  {
+   "en": "7th Zone, next to Nasr City Court, 160 m²",
+   "ar": "الحي السابع، بجوار محكمة مدينة نصر، 160 م²",
+   "m2": 160,
+   "p": 3500000
+  },
+  {
+   "en": "6th Zone, Makram Ebeid St., 220 m²",
+   "ar": "الحي السادس، شارع مكرم عبيد، 220 م²",
+   "m2": 220,
+   "p": 7000000
+  },
+  {
+   "en": "6th Zone, Mostafa El Nahas St., 230 m²",
+   "ar": "الحي السادس، شارع مصطفى النحاس، 230 م²",
+   "m2": 230,
+   "p": 7500000
+  },
+  {
+   "en": "Off Makram Ebeid and Abbas El Akkad, 275 m²",
+   "ar": "متفرع من مكرم عبيد وعباس العقاد، 275 م²",
+   "m2": 275,
+   "p": 7000000
+  },
+  {
+   "en": "Embassies District, 148 m²",
+   "ar": "حي السفارات، 148 م²",
+   "m2": 148,
+   "p": 4050000
+  }
  ],
  "news": [
-  {"en": "Nasr City apartments are estimated at EGP 25,000 to 40,000 per m²; a typical home sells for EGP 2.5 to 6 million.", "ar": "تُقدَّر شقق مدينة نصر بين 25,000 و40,000 جنيه للمتر، والشقة المعتادة تُباع بين 2.5 و6 ملايين جنيه.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
-  {"en": "Cairo prices are about 14% to 18% higher than a year ago in pounds, but growth is slower than in 2023 and 2024 and resale demand is cooling.", "ar": "أسعار القاهرة أعلى بنحو 14% إلى 18% عن العام الماضي بالجنيه، لكن الارتفاع أبطأ من 2023 و2024 والطلب على إعادة البيع يهدأ.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
-  {"en": "Asking prices on resale listings run about 7% to 12% above the final sale price. Expect buyers to negotiate.", "ar": "الأسعار المعروضة في إعادة البيع أعلى بنحو 7% إلى 12% من سعر البيع النهائي. توقَّع تفاوض المشترين.", "src": "Sands of Wealth", "url": "https://sandsofwealth.com/blogs/news/cairo-real-estate-market", "d": "2026-09-21"},
-  {"en": "Asking prices seen in older Nasr City zones: 6th and 8th Zone flats at roughly EGP 23,000 to 30,000 per m², Abbas El Akkad near 38,600.", "ar": "أسعار معروضة في أحياء مدينة نصر القديمة: شقق الحي السادس والثامن بين نحو 23,000 و30,000 جنيه للمتر، وعباس العقاد نحو 38,600.", "src": "Property Finder", "url": "https://www.propertyfinder.eg/en/buy/cairo/apartments-for-sale-nasr-city.html", "d": "2026-11-09"},
-  {"en": "Contractor rates: skeleton EGP 3,500 to 5,500 per m², with Cairo at the top of the range; semi-finished 5,500 to 7,500.", "ar": "أسعار المقاولات: الهيكل بين 3,500 و5,500 جنيه للمتر، والقاهرة في أعلى النطاق؛ نصف التشطيب بين 5,500 و7,500.", "src": "Aqaar24", "url": "https://aqaar24.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%AA%D8%B4%D8%B7%D9%8A%D8%A8-%D8%B9%D8%B8/", "d": "2026-08-24"}
+  {
+   "en": "Resale flats in the 7th Zone are listed at about EGP 22,000 to 23,000 per m² (e.g. 200 m² for EGP 4.5m), versus about 32,000 on Makram Ebeid in the 6th Zone.",
+   "ar": "تُعرض شقق إعادة البيع في الحي السابع بنحو 22,000 إلى 23,000 جنيه للمتر (مثل 200 م² بـ4.5 مليون)، مقابل نحو 32,000 في مكرم عبيد بالحي السادس.",
+   "src": "Property Finder",
+   "url": "https://www.propertyfinder.eg/en/plp/buy/apartment-for-sale-cairo-nasr-city-7th-district-8022323.html",
+   "d": "2026-11-10"
+  },
+  {
+   "en": "Egypt's core inflation slowed to 13.1% in October. S&P expects the central bank to hold rates at its December meeting, with cuts possible in 2027.",
+   "ar": "تباطأ التضخم الأساسي في مصر إلى 13.1% في أكتوبر، وتتوقع S&P أن يُبقي البنك المركزي الفائدة دون تغيير في اجتماع ديسمبر، مع احتمال الخفض في 2027.",
+   "src": "Arabian Business",
+   "url": "https://www.arabianbusiness.com/finance/banking/egypt-unlikely-to-cut-interest-rates-despite-inflation-falling-to-13-1",
+   "d": "2026-11-09"
+  },
+  {
+   "en": "Real-estate sales reached EGP 1.065 trillion in the first nine months of 2026, up 2%. East Cairo took 40% (EGP 425bn, up 16%).",
+   "ar": "بلغت المبيعات العقارية 1.065 تريليون جنيه في أول تسعة أشهر من 2026 بزيادة 2%، واستحوذ شرق القاهرة على 40% منها (425 مليار جنيه بزيادة 16%).",
+   "src": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
+   "d": "2026-11-08"
+  },
+  {
+   "en": "The same report puts the lending rate at 21% and says rising building costs are pushing developers to fix supply prices and add cost buffers.",
+   "ar": "ويذكر التقرير نفسه أن سعر الإقراض 21%، وأن ارتفاع تكاليف البناء يدفع المطورين إلى تثبيت أسعار التوريد وإضافة هامش لتغير التكلفة.",
+   "src": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
+   "d": "2026-11-08"
+  },
+  {
+   "en": "Annual headline inflation in Egypt fell to 12% in October from 12.8% in September, according to CAPMAS.",
+   "ar": "تراجع معدل التضخم السنوي العام في مصر إلى 12% في أكتوبر مقابل 12.8% في سبتمبر، وفقًا للجهاز المركزي للتعبئة العامة والإحصاء.",
+   "src": "Al Mal News",
+   "url": "https://almalnews.com/2145500/%C2%AB%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%C2%BB-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A5%D9%84%D9%89/",
+   "d": "2026-11-05"
+  }
  ],
- "outlook": {"en": "Prices in Cairo are still rising in pounds, but more slowly than in the last two years, and buyers negotiate harder. New buildings sell at a premium over old stock. High building costs and expensive financing remain the main risks.", "ar": "الأسعار في القاهرة ما زالت ترتفع بالجنيه، لكن أبطأ من العامين الماضيين، والمشترون يفاوضون أكثر. المباني الجديدة تُباع بعلاوة عن القديمة. ارتفاع تكلفة البناء وغلاء التمويل هما أكبر المخاطر."},
- "h": [{"d": "2026-11-09", "lo": 25000, "hi": 40000}]
+ "outlook": {
+  "en": "Sales are growing slowly nationwide, but East Cairo is still among the strongest areas. Inflation is easing, yet lending stays near 21% and no rate cut is expected before 2027. Building costs and a weaker pound are the main risks; older 7th Zone stock is listed well below newer streets.",
+  "ar": "المبيعات تنمو ببطء على مستوى الجمهورية، لكن شرق القاهرة ما زال من أقوى المناطق. التضخم يتراجع، غير أن فائدة الإقراض تبقى نحو 21% ولا يُتوقع خفضها قبل 2027. تكاليف البناء وضعف الجنيه هما أبرز المخاطر، والمعروض القديم في الحي السابع يُعرض بأسعار أقل كثيرًا من الشوارع الأحدث."
+ },
+ "h": [
+  {
+   "d": "2026-11-09",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-10",
+   "lo": 25000,
+   "hi": 40000
+  }
+ ]
 }
