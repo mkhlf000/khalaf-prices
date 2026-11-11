@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,61 +47,67 @@
  },
  "comps": [
   {
-   "en": "7th Zone, near Nasr City Court, 200 m²",
-   "ar": "الحي السابع، قرب محكمة مدينة نصر، 200 م²",
+   "en": "7th Zone, Zakir Hussein St. (El Methak), 100 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 100 م²",
+   "m2": 100,
+   "p": 2600000
+  },
+  {
+   "en": "7th Zone, International Garden area, 125 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 125 م²",
+   "m2": 125,
+   "p": 4200000
+  },
+  {
+   "en": "7th Zone, International Garden area, 126 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 126 م²",
+   "m2": 126,
+   "p": 3150000
+  },
+  {
+   "en": "7th Zone, International Garden area, 200 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 200 م²",
    "m2": 200,
-   "p": 4500000
+   "p": 5200000
   },
   {
-   "en": "7th Zone, main street, 220 m²",
-   "ar": "الحي السابع، شارع رئيسي، 220 م²",
-   "m2": 220,
-   "p": 5000000
-  },
-  {
-   "en": "7th Zone, next to Nasr City Court, 160 m²",
-   "ar": "الحي السابع، بجوار محكمة مدينة نصر، 160 م²",
+   "en": "7th Zone, Zakir Hussein St. (El Methak), 160 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
    "m2": 160,
-   "p": 3500000
+   "p": 6000000
   },
   {
-   "en": "6th Zone, Makram Ebeid St., 220 m²",
-   "ar": "الحي السادس، شارع مكرم عبيد، 220 م²",
+   "en": "7th Zone, Zakir Hussein St. (El Methak), 200 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 200 م²",
+   "m2": 200,
+   "p": 5500000
+  },
+  {
+   "en": "7th Zone, International Garden area, 220 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م²",
    "m2": 220,
    "p": 7000000
   },
   {
-   "en": "6th Zone, Mostafa El Nahas St., 230 m²",
-   "ar": "الحي السادس، شارع مصطفى النحاس، 230 م²",
+   "en": "7th Zone, Zakir Hussein St. (El Methak), 230 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 230 م²",
    "m2": 230,
-   "p": 7500000
-  },
-  {
-   "en": "Off Makram Ebeid and Abbas El Akkad, 275 m²",
-   "ar": "متفرع من مكرم عبيد وعباس العقاد، 275 م²",
-   "m2": 275,
-   "p": 7000000
-  },
-  {
-   "en": "Embassies District, 148 m²",
-   "ar": "حي السفارات، 148 م²",
-   "m2": 148,
-   "p": 4050000
+   "p": 5500000
   }
  ],
  "news": [
   {
-   "en": "Resale flats in the 7th Zone are listed at about EGP 22,000 to 23,000 per m² (e.g. 200 m² for EGP 4.5m), versus about 32,000 on Makram Ebeid in the 6th Zone.",
-   "ar": "تُعرض شقق إعادة البيع في الحي السابع بنحو 22,000 إلى 23,000 جنيه للمتر (مثل 200 م² بـ4.5 مليون)، مقابل نحو 32,000 في مكرم عبيد بالحي السادس.",
-   "src": "Property Finder",
-   "url": "https://www.propertyfinder.eg/en/plp/buy/apartment-for-sale-cairo-nasr-city-7th-district-8022323.html",
+   "en": "The US dollar fell about 66 piasters on 10 November to around EGP 53.25 (buy) at the Central Bank of Egypt, from about 53.91 the day before.",
+   "ar": "تراجع الدولار نحو 66 قرشًا في 10 نوفمبر ليسجل قرابة 53.25 جنيه للشراء في البنك المركزي، مقابل نحو 53.91 جنيه في اليوم السابق.",
+   "src": "Bloom Gate",
+   "url": "https://bloom-gate.com/%D8%A3%D8%B3%D9%88%D8%A7%D9%82/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-66-%D9%82%D8%B1%D8%B4%D9%8B%D8%A7-%D8%A5%D9%84%D9%89-53-25-%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7/",
    "d": "2026-11-10"
   },
   {
-   "en": "Egypt's core inflation slowed to 13.1% in October. S&P expects the central bank to hold rates at its December meeting, with cuts possible in 2027.",
-   "ar": "تباطأ التضخم الأساسي في مصر إلى 13.1% في أكتوبر، وتتوقع S&P أن يُبقي البنك المركزي الفائدة دون تغيير في اجتماع ديسمبر، مع احتمال الخفض في 2027.",
-   "src": "Arabian Business",
-   "url": "https://www.arabianbusiness.com/finance/banking/egypt-unlikely-to-cut-interest-rates-despite-inflation-falling-to-13-1",
+   "en": "A real-estate development committee official said sales growth has lagged behind price rises as buyers' purchasing power weakens; instalment plans now run 8 to 12 years.",
+   "ar": "قال مسؤول بلجنة التطوير العقاري إن نمو المبيعات لم يواكب ارتفاع الأسعار مع تراجع القدرة الشرائية، وإن خطط التقسيط باتت تمتد من 8 إلى 12 عامًا.",
+   "src": "Akhbar Egypt",
+   "url": "https://akhbaregy.com/2026/11/09/%D9%82%D8%A8%D9%84-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%B4%D9%82%D8%A9-%D8%AE%D8%A8%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9/",
    "d": "2026-11-09"
   },
   {
@@ -112,23 +118,23 @@
    "d": "2026-11-08"
   },
   {
-   "en": "The same report puts the lending rate at 21% and says rising building costs are pushing developers to fix supply prices and add cost buffers.",
-   "ar": "ويذكر التقرير نفسه أن سعر الإقراض 21%، وأن ارتفاع تكاليف البناء يدفع المطورين إلى تثبيت أسعار التوريد وإضافة هامش لتغير التكلفة.",
+   "en": "The same report puts the lending rate at 21% and links higher building costs to the currency and imported inputs, urging developers to lock in supply prices.",
+   "ar": "ويذكر التقرير نفسه أن سعر الإقراض 21%، ويربط ارتفاع تكاليف البناء بسعر الصرف والمدخلات المستوردة، داعيًا المطورين إلى تثبيت أسعار التوريد مبكرًا.",
    "src": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
    "d": "2026-11-08"
   },
   {
-   "en": "Annual headline inflation in Egypt fell to 12% in October from 12.8% in September, according to CAPMAS.",
-   "ar": "تراجع معدل التضخم السنوي العام في مصر إلى 12% في أكتوبر مقابل 12.8% في سبتمبر، وفقًا للجهاز المركزي للتعبئة العامة والإحصاء.",
-   "src": "Al Mal News",
-   "url": "https://almalnews.com/2145500/%C2%AB%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%C2%BB-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A5%D9%84%D9%89/",
-   "d": "2026-11-05"
+   "en": "A Keller Williams Egypt report counts EGP 1.348 trillion in contracted sales for 103,643 units in 9M 2026; East Cairo had 37.1%. Typical down payments are 5% to 10%.",
+   "ar": "يرصد تقرير لكيلر ويليامز مصر مبيعات تعاقدية بقيمة 1.348 تريليون جنيه لـ103,643 وحدة في أول 9 أشهر من 2026، بحصة 37.1% لشرق القاهرة، ومقدمات تتراوح بين 5% و10%.",
+   "src": "Egy Gate News",
+   "url": "https://www.egygatenews.com/2026/11/135-9-2026.html",
+   "d": "2026-11-04"
   }
  ],
  "outlook": {
-  "en": "Sales are growing slowly nationwide, but East Cairo is still among the strongest areas. Inflation is easing, yet lending stays near 21% and no rate cut is expected before 2027. Building costs and a weaker pound are the main risks; older 7th Zone stock is listed well below newer streets.",
-  "ar": "المبيعات تنمو ببطء على مستوى الجمهورية، لكن شرق القاهرة ما زال من أقوى المناطق. التضخم يتراجع، غير أن فائدة الإقراض تبقى نحو 21% ولا يُتوقع خفضها قبل 2027. تكاليف البناء وضعف الجنيه هما أبرز المخاطر، والمعروض القديم في الحي السابع يُعرض بأسعار أقل كثيرًا من الشوارع الأحدث."
+  "en": "East Cairo remains one of the strongest sales areas, but overall sales are growing far more slowly than prices as household purchasing power weakens. Lending stays near 21%, and the pound, though slightly firmer this week, is still volatile. Building costs tied to the currency and the long instalment terms buyers now expect are the main risks for a small developer.",
+  "ar": "يظل شرق القاهرة من أقوى مناطق المبيعات، لكن المبيعات إجمالًا تنمو أبطأ بكثير من الأسعار مع تراجع القدرة الشرائية للأسر. وتبقى فائدة الإقراض نحو 21%، ولا يزال الجنيه متقلبًا رغم تحسنه الطفيف هذا الأسبوع. وتمثل تكاليف البناء المرتبطة بسعر الصرف وفترات التقسيط الطويلة التي يتوقعها المشترون أبرز المخاطر على المطور الصغير."
  },
  "h": [
   {
@@ -138,6 +144,11 @@
   },
   {
    "d": "2026-11-10",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-11",
    "lo": 25000,
    "hi": 40000
   }
