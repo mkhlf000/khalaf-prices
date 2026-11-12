@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,55 +47,69 @@
  },
  "comps": [
   {
-   "en": "7th Zone, Zakir Hussein St. (El Methak), 100 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 100 م²",
-   "m2": 100,
-   "p": 2600000
+   "en": "7th Zone, Al Fadl Bin Al Rabee St., 230 m²",
+   "ar": "الحي السابع، شارع الفضل بن الربيع، 230 م²",
+   "m2": 230,
+   "p": 4500000
   },
   {
-   "en": "7th Zone, International Garden area, 125 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 125 م²",
+   "en": "7th Zone, Dr. Abdullah El Araby St., 125 m²",
+   "ar": "الحي السابع، شارع د. عبد الله العربي، 125 م²",
    "m2": 125,
-   "p": 4200000
+   "p": 3600000
   },
   {
-   "en": "7th Zone, International Garden area, 126 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 126 م²",
-   "m2": 126,
-   "p": 3150000
+   "en": "7th Zone, prime location, 140 m²",
+   "ar": "الحي السابع، موقع مميز، 140 م²",
+   "m2": 140,
+   "p": 3400000
   },
   {
-   "en": "7th Zone, International Garden area, 200 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 200 م²",
-   "m2": 200,
-   "p": 5200000
-  },
-  {
-   "en": "7th Zone, Zakir Hussein St. (El Methak), 160 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
-   "m2": 160,
+   "en": "7th Zone, Dawood Barakat St., 175 m²",
+   "ar": "الحي السابع، شارع داود بركات، 175 م²",
+   "m2": 175,
    "p": 6000000
   },
   {
-   "en": "7th Zone, Zakir Hussein St. (El Methak), 200 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 200 م²",
-   "m2": 200,
-   "p": 5500000
+   "en": "7th Zone, Dr. Abdullah El Araby St., 175 m²",
+   "ar": "الحي السابع، شارع د. عبد الله العربي، 175 م²",
+   "m2": 175,
+   "p": 4500000
   },
   {
-   "en": "7th Zone, International Garden area, 220 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م²",
-   "m2": 220,
-   "p": 7000000
+   "en": "7th Zone, Nasr City, 210 m²",
+   "ar": "الحي السابع، مدينة نصر، 210 م²",
+   "m2": 210,
+   "p": 3750000
   },
   {
-   "en": "7th Zone, Zakir Hussein St. (El Methak), 230 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 230 م²",
-   "m2": 230,
-   "p": 5500000
+   "en": "7th Zone, prime location, 120 m²",
+   "ar": "الحي السابع، موقع مميز، 120 م²",
+   "m2": 120,
+   "p": 3900000
+  },
+  {
+   "en": "7th Zone, Nasr City, 168 m²",
+   "ar": "الحي السابع، مدينة نصر، 168 م²",
+   "m2": 168,
+   "p": 3200000
   }
  ],
  "news": [
+  {
+   "en": "On 12 November, Ezz rebar averaged about EGP 41,452 a ton (+0.08%), while grey cement rose 0.46% to about EGP 4,087 a ton.",
+   "ar": "في 12 نوفمبر بلغ متوسط سعر طن حديد عز نحو 41,452 جنيهًا بزيادة 0.08%، بينما ارتفع الأسمنت الرمادي 0.46% إلى نحو 4,087 جنيهًا للطن.",
+   "src": "Sada El Balad",
+   "url": "https://www.elbalad.news/7177331",
+   "d": "2026-11-12"
+  },
+  {
+   "en": "Annual urban inflation eased to 12.7% in October from 13.9% in September; the central bank raised rates by 100bp on 29 October, putting lending at 21%.",
+   "ar": "تراجع التضخم السنوي في المدن إلى 12.7% في أكتوبر من 13.9% في سبتمبر، بعدما رفع البنك المركزي الفائدة 100 نقطة أساس في 29 أكتوبر ليصل سعر الإقراض إلى 21%.",
+   "src": "Arab News",
+   "url": "https://www.arabnews.com/business/egypts-annual-urban-inflation-eases-to-127-in-october-3010895",
+   "d": "2026-11-10"
+  },
   {
    "en": "The US dollar fell about 66 piasters on 10 November to around EGP 53.25 (buy) at the Central Bank of Egypt, from about 53.91 the day before.",
    "ar": "تراجع الدولار نحو 66 قرشًا في 10 نوفمبر ليسجل قرابة 53.25 جنيه للشراء في البنك المركزي، مقابل نحو 53.91 جنيه في اليوم السابق.",
@@ -111,30 +125,23 @@
    "d": "2026-11-09"
   },
   {
+   "en": "A sales head at Unwan Developments expects prices to rise 8% to 12% in 2026, mainly on building costs; property finance grew about 25% while client numbers fell 9%.",
+   "ar": "يتوقع رئيس قطاع المبيعات بشركة عنوان للتطوير العقاري ارتفاع الأسعار بين 8% و12% في 2026 بفعل تكاليف البناء، مع نمو التمويل العقاري نحو 25% وتراجع عدد العملاء 9%.",
+   "src": "Egy Gate News",
+   "url": "https://www.egygatenews.com/2026/11/2026.html",
+   "d": "2026-11-08"
+  },
+  {
    "en": "Real-estate sales reached EGP 1.065 trillion in the first nine months of 2026, up 2%. East Cairo took 40% (EGP 425bn, up 16%).",
    "ar": "بلغت المبيعات العقارية 1.065 تريليون جنيه في أول تسعة أشهر من 2026 بزيادة 2%، واستحوذ شرق القاهرة على 40% منها (425 مليار جنيه بزيادة 16%).",
    "src": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
    "d": "2026-11-08"
-  },
-  {
-   "en": "The same report puts the lending rate at 21% and links higher building costs to the currency and imported inputs, urging developers to lock in supply prices.",
-   "ar": "ويذكر التقرير نفسه أن سعر الإقراض 21%، ويربط ارتفاع تكاليف البناء بسعر الصرف والمدخلات المستوردة، داعيًا المطورين إلى تثبيت أسعار التوريد مبكرًا.",
-   "src": "Daily News Egypt",
-   "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
-   "d": "2026-11-08"
-  },
-  {
-   "en": "A Keller Williams Egypt report counts EGP 1.348 trillion in contracted sales for 103,643 units in 9M 2026; East Cairo had 37.1%. Typical down payments are 5% to 10%.",
-   "ar": "يرصد تقرير لكيلر ويليامز مصر مبيعات تعاقدية بقيمة 1.348 تريليون جنيه لـ103,643 وحدة في أول 9 أشهر من 2026، بحصة 37.1% لشرق القاهرة، ومقدمات تتراوح بين 5% و10%.",
-   "src": "Egy Gate News",
-   "url": "https://www.egygatenews.com/2026/11/135-9-2026.html",
-   "d": "2026-11-04"
   }
  ],
  "outlook": {
-  "en": "East Cairo remains one of the strongest sales areas, but overall sales are growing far more slowly than prices as household purchasing power weakens. Lending stays near 21%, and the pound, though slightly firmer this week, is still volatile. Building costs tied to the currency and the long instalment terms buyers now expect are the main risks for a small developer.",
-  "ar": "يظل شرق القاهرة من أقوى مناطق المبيعات، لكن المبيعات إجمالًا تنمو أبطأ بكثير من الأسعار مع تراجع القدرة الشرائية للأسر. وتبقى فائدة الإقراض نحو 21%، ولا يزال الجنيه متقلبًا رغم تحسنه الطفيف هذا الأسبوع. وتمثل تكاليف البناء المرتبطة بسعر الصرف وفترات التقسيط الطويلة التي يتوقعها المشترون أبرز المخاطر على المطور الصغير."
+  "en": "Prices keep rising, driven mostly by building costs, while sales volumes and buyer numbers lag as purchasing power weakens. Inflation eased in October, but the central bank's late-October hike keeps lending at 21%. Currency-linked material costs, costly finance and buyers' demand for long instalment plans are the main risks for a small developer.",
+  "ar": "تواصل الأسعار ارتفاعها بدفع أساسي من تكاليف البناء، بينما تتأخر أحجام المبيعات وأعداد المشترين مع تراجع القدرة الشرائية. وقد تراجع التضخم في أكتوبر، لكن رفع البنك المركزي للفائدة أواخر الشهر أبقى سعر الإقراض عند 21%. وتمثل تكاليف المواد المرتبطة بسعر الصرف وارتفاع كلفة التمويل وطلب المشترين لفترات تقسيط طويلة أبرز المخاطر على المطور الصغير."
  },
  "h": [
   {
@@ -149,6 +156,11 @@
   },
   {
    "d": "2026-11-11",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-12",
    "lo": 25000,
    "hi": 40000
   }

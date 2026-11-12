@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "note": "Prices in EGP from published Egyptian market reports. Refreshed daily.",
  "items": [
   {
@@ -49,6 +49,12 @@
      "p": 40850,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1388785"
+    },
+    {
+     "d": "2026-11-12",
+     "p": 40850,
+     "src": "Masry Post",
+     "url": "https://www.msrypost.com/48163"
     }
    ]
   },
@@ -214,6 +220,12 @@
      "p": 39200,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1388785"
+    },
+    {
+     "d": "2026-11-12",
+     "p": 39200,
+     "src": "Masry Post",
+     "url": "https://www.msrypost.com/48163"
     }
    ]
   },
@@ -304,6 +316,12 @@
      "p": 4200,
      "src": "Egypt Telegraph",
      "url": "https://www.egypttelegraph.com/article/294989/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%83%D9%85"
+    },
+    {
+     "d": "2026-11-12",
+     "p": 4200,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389014"
     }
    ]
   },
@@ -350,6 +368,12 @@
      "p": 3950,
      "src": "Egypt Telegraph",
      "url": "https://www.egypttelegraph.com/article/294989/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%83%D9%85"
+    },
+    {
+     "d": "2026-11-12",
+     "p": 3950,
+     "src": "Masry Post",
+     "url": "https://www.msrypost.com/48163"
     }
    ]
   },
@@ -390,6 +414,12 @@
      "p": 3850,
      "src": "Al Nabaa",
      "url": "https://www.elnabaa.net/1202775/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-11-11-2026"
+    },
+    {
+     "d": "2026-11-12",
+     "p": 3850,
+     "src": "Youlyou",
+     "url": "https://www.youlyou.com/92405"
     }
    ]
   },
