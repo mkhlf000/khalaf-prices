@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,10 +97,31 @@
  ],
  "news": [
   {
-   "en": "On 12 November, Ezz rebar averaged about EGP 41,452 a ton (+0.08%), while grey cement rose 0.46% to about EGP 4,087 a ton.",
-   "ar": "في 12 نوفمبر بلغ متوسط سعر طن حديد عز نحو 41,452 جنيهًا بزيادة 0.08%، بينما ارتفع الأسمنت الرمادي 0.46% إلى نحو 4,087 جنيهًا للطن.",
-   "src": "Sada El Balad",
-   "url": "https://www.elbalad.news/7177331",
+   "en": "Factory rebar prices held steady on 13 November, with Ezz at EGP 40,850 a ton; the report says some mills raised November prices by about EGP 2,000 on average.",
+   "ar": "استقرت أسعار حديد التسليح في المصانع يوم 13 نوفمبر، وسجل حديد عز 40,850 جنيهًا للطن، فيما أشار التقرير إلى رفع بعض الشركات أسعار نوفمبر بنحو 2,000 جنيه في المتوسط.",
+   "src": "Al Dawla News",
+   "url": "https://www.aldawlanews.com/1389208",
+   "d": "2026-11-13"
+  },
+  {
+   "en": "A businessmen's association housing official expects new-home prices to rise from early 2027 if high rates and costs persist; land is about 25% of a unit's price.",
+   "ar": "يتوقع مسؤول التطوير العقاري بجمعية رجال الأعمال ارتفاع أسعار الوحدات الجديدة مطلع 2027 إذا استمرت الفائدة والتكاليف المرتفعة، مشيرًا إلى أن الأرض تمثل نحو 25% من سعر الوحدة.",
+   "src": "Property Plus",
+   "url": "https://propertypluseg.com/%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%88%D8%B2%D9%8A-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B4/",
+   "d": "2026-11-12"
+  },
+  {
+   "en": "Median monthly rent for new unfurnished flats in Nasr City is about EGP 20,000; Cairo's median rent rose about 25% in the first nine months of 2026.",
+   "ar": "يبلغ متوسط الإيجار الشهري للشقق الجديدة غير المفروشة في مدينة نصر نحو 20 ألف جنيه، وارتفع متوسط الإيجارات في القاهرة نحو 25% خلال أول تسعة أشهر من 2026.",
+   "src": "Al Banker",
+   "url": "https://www.banker.news/160168",
+   "d": "2026-11-12"
+  },
+  {
+   "en": "The pound was broadly stable on 12 November, with the dollar at EGP 53.52 buy and 53.62 sell at the National Bank of Egypt.",
+   "ar": "استقر الجنيه تقريبًا يوم 12 نوفمبر، إذ سجل الدولار 53.52 جنيه للشراء و53.62 جنيه للبيع في البنك الأهلي المصري.",
+   "src": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egyptian-pound-at-53-52-53-62-against-dollar-at-midday-trading-12-nov-2026/",
    "d": "2026-11-12"
   },
   {
@@ -111,27 +132,6 @@
    "d": "2026-11-10"
   },
   {
-   "en": "The US dollar fell about 66 piasters on 10 November to around EGP 53.25 (buy) at the Central Bank of Egypt, from about 53.91 the day before.",
-   "ar": "تراجع الدولار نحو 66 قرشًا في 10 نوفمبر ليسجل قرابة 53.25 جنيه للشراء في البنك المركزي، مقابل نحو 53.91 جنيه في اليوم السابق.",
-   "src": "Bloom Gate",
-   "url": "https://bloom-gate.com/%D8%A3%D8%B3%D9%88%D8%A7%D9%82/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-66-%D9%82%D8%B1%D8%B4%D9%8B%D8%A7-%D8%A5%D9%84%D9%89-53-25-%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7/",
-   "d": "2026-11-10"
-  },
-  {
-   "en": "A real-estate development committee official said sales growth has lagged behind price rises as buyers' purchasing power weakens; instalment plans now run 8 to 12 years.",
-   "ar": "قال مسؤول بلجنة التطوير العقاري إن نمو المبيعات لم يواكب ارتفاع الأسعار مع تراجع القدرة الشرائية، وإن خطط التقسيط باتت تمتد من 8 إلى 12 عامًا.",
-   "src": "Akhbar Egypt",
-   "url": "https://akhbaregy.com/2026/11/09/%D9%82%D8%A8%D9%84-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%B4%D9%82%D8%A9-%D8%AE%D8%A8%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9/",
-   "d": "2026-11-09"
-  },
-  {
-   "en": "A sales head at Unwan Developments expects prices to rise 8% to 12% in 2026, mainly on building costs; property finance grew about 25% while client numbers fell 9%.",
-   "ar": "يتوقع رئيس قطاع المبيعات بشركة عنوان للتطوير العقاري ارتفاع الأسعار بين 8% و12% في 2026 بفعل تكاليف البناء، مع نمو التمويل العقاري نحو 25% وتراجع عدد العملاء 9%.",
-   "src": "Egy Gate News",
-   "url": "https://www.egygatenews.com/2026/11/2026.html",
-   "d": "2026-11-08"
-  },
-  {
    "en": "Real-estate sales reached EGP 1.065 trillion in the first nine months of 2026, up 2%. East Cairo took 40% (EGP 425bn, up 16%).",
    "ar": "بلغت المبيعات العقارية 1.065 تريليون جنيه في أول تسعة أشهر من 2026 بزيادة 2%، واستحوذ شرق القاهرة على 40% منها (425 مليار جنيه بزيادة 16%).",
    "src": "Daily News Egypt",
@@ -140,8 +140,8 @@
   }
  ],
  "outlook": {
-  "en": "Prices keep rising, driven mostly by building costs, while sales volumes and buyer numbers lag as purchasing power weakens. Inflation eased in October, but the central bank's late-October hike keeps lending at 21%. Currency-linked material costs, costly finance and buyers' demand for long instalment plans are the main risks for a small developer.",
-  "ar": "تواصل الأسعار ارتفاعها بدفع أساسي من تكاليف البناء، بينما تتأخر أحجام المبيعات وأعداد المشترين مع تراجع القدرة الشرائية. وقد تراجع التضخم في أكتوبر، لكن رفع البنك المركزي للفائدة أواخر الشهر أبقى سعر الإقراض عند 21%. وتمثل تكاليف المواد المرتبطة بسعر الصرف وارتفاع كلفة التمويل وطلب المشترين لفترات تقسيط طويلة أبرز المخاطر على المطور الصغير."
+  "en": "Prices continue to rise on building and finance costs, while sales have slowed and developers compete hard, limiting how fast costs can be passed on. Rebar and cement are steady this week and the pound is stable, but lending near 21% keeps finance expensive. Further cost increases, longer instalment demands and weaker purchasing power are the main risks for a small developer.",
+  "ar": "تواصل الأسعار الارتفاع بفعل تكاليف البناء والتمويل، في حين تباطأت المبيعات واشتدت المنافسة بين المطورين، مما يحد من سرعة تحميل التكاليف على المشترين. واستقرت أسعار الحديد والأسمنت هذا الأسبوع مع ثبات الجنيه، لكن سعر الإقراض القريب من 21% يبقي التمويل مكلفًا. وتمثل زيادات التكاليف وطلب فترات تقسيط أطول وضعف القدرة الشرائية أبرز المخاطر على المطور الصغير."
  },
  "h": [
   {
@@ -161,6 +161,11 @@
   },
   {
    "d": "2026-11-12",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-13",
    "lo": 25000,
    "hi": 40000
   }
