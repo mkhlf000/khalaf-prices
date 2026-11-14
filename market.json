@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,11 +97,18 @@
  ],
  "news": [
   {
-   "en": "Factory rebar prices held steady on 13 November, with Ezz at EGP 40,850 a ton; the report says some mills raised November prices by about EGP 2,000 on average.",
-   "ar": "استقرت أسعار حديد التسليح في المصانع يوم 13 نوفمبر، وسجل حديد عز 40,850 جنيهًا للطن، فيما أشار التقرير إلى رفع بعض الشركات أسعار نوفمبر بنحو 2,000 جنيه في المتوسط.",
+   "en": "On 14 November investment-grade rebar averaged about EGP 38,526 a ton ex-factory, down EGP 484 a day earlier; grey cement averaged EGP 4,200 to consumers and 3,820 ex-factory.",
+   "ar": "سجل متوسط سعر الحديد الاستثماري يوم 14 نوفمبر نحو 38,526 جنيهًا للطن تسليم المصنع بتراجع 484 جنيهًا، وبلغ متوسط سعر الأسمنت الرمادي 4,200 جنيه للمستهلك و3,820 جنيهًا تسليم المصنع.",
+   "src": "Masry Post",
+   "url": "https://www.msrypost.com/48180",
+   "d": "2026-11-14"
+  },
+  {
+   "en": "The pound held steady on 14 November, with the dollar at EGP 53.39 buy and 53.49 sell at the National Bank of Egypt.",
+   "ar": "استقر الجنيه يوم 14 نوفمبر، إذ سجل الدولار 53.39 جنيه للشراء و53.49 جنيه للبيع في البنك الأهلي المصري.",
    "src": "Al Dawla News",
-   "url": "https://www.aldawlanews.com/1389208",
-   "d": "2026-11-13"
+   "url": "https://aldawlanews.com/1389300",
+   "d": "2026-11-14"
   },
   {
    "en": "A businessmen's association housing official expects new-home prices to rise from early 2027 if high rates and costs persist; land is about 25% of a unit's price.",
@@ -115,13 +122,6 @@
    "ar": "يبلغ متوسط الإيجار الشهري للشقق الجديدة غير المفروشة في مدينة نصر نحو 20 ألف جنيه، وارتفع متوسط الإيجارات في القاهرة نحو 25% خلال أول تسعة أشهر من 2026.",
    "src": "Al Banker",
    "url": "https://www.banker.news/160168",
-   "d": "2026-11-12"
-  },
-  {
-   "en": "The pound was broadly stable on 12 November, with the dollar at EGP 53.52 buy and 53.62 sell at the National Bank of Egypt.",
-   "ar": "استقر الجنيه تقريبًا يوم 12 نوفمبر، إذ سجل الدولار 53.52 جنيه للشراء و53.62 جنيه للبيع في البنك الأهلي المصري.",
-   "src": "Amwal Al Ghad",
-   "url": "https://en.amwalalghad.com/egyptian-pound-at-53-52-53-62-against-dollar-at-midday-trading-12-nov-2026/",
    "d": "2026-11-12"
   },
   {
@@ -140,8 +140,8 @@
   }
  ],
  "outlook": {
-  "en": "Prices continue to rise on building and finance costs, while sales have slowed and developers compete hard, limiting how fast costs can be passed on. Rebar and cement are steady this week and the pound is stable, but lending near 21% keeps finance expensive. Further cost increases, longer instalment demands and weaker purchasing power are the main risks for a small developer.",
-  "ar": "تواصل الأسعار الارتفاع بفعل تكاليف البناء والتمويل، في حين تباطأت المبيعات واشتدت المنافسة بين المطورين، مما يحد من سرعة تحميل التكاليف على المشترين. واستقرت أسعار الحديد والأسمنت هذا الأسبوع مع ثبات الجنيه، لكن سعر الإقراض القريب من 21% يبقي التمويل مكلفًا. وتمثل زيادات التكاليف وطلب فترات تقسيط أطول وضعف القدرة الشرائية أبرز المخاطر على المطور الصغير."
+  "en": "Sales value grew only 2% in the first nine months of 2026 while average ticket prices rose 7%, so growth is coming from higher prices more than more buyers. Cement is steady, investment-grade rebar eased slightly this week and the pound is stable, but lending near 21% keeps finance expensive. Renewed cost increases, buyers' demands for longer instalments and weaker purchasing power are the main risks for a small developer.",
+  "ar": "لم ترتفع قيمة المبيعات العقارية سوى 2% في أول تسعة أشهر من 2026 بينما زاد متوسط سعر الوحدة 7%، أي أن النمو يأتي من ارتفاع الأسعار أكثر من زيادة المشترين. واستقر الأسمنت وتراجع الحديد الاستثماري قليلًا هذا الأسبوع مع ثبات الجنيه، لكن سعر الإقراض القريب من 21% يبقي التمويل مكلفًا. وتمثل عودة ارتفاع التكاليف وطلب المشترين فترات تقسيط أطول وضعف القدرة الشرائية أبرز المخاطر على المطور الصغير."
  },
  "h": [
   {
@@ -166,6 +166,11 @@
   },
   {
    "d": "2026-11-13",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-14",
    "lo": 25000,
    "hi": 40000
   }
