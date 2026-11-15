@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,51 +97,44 @@
  ],
  "news": [
   {
-   "en": "On 14 November investment-grade rebar averaged about EGP 38,526 a ton ex-factory, down EGP 484 a day earlier; grey cement averaged EGP 4,200 to consumers and 3,820 ex-factory.",
-   "ar": "سجل متوسط سعر الحديد الاستثماري يوم 14 نوفمبر نحو 38,526 جنيهًا للطن تسليم المصنع بتراجع 484 جنيهًا، وبلغ متوسط سعر الأسمنت الرمادي 4,200 جنيه للمستهلك و3,820 جنيهًا تسليم المصنع.",
-   "src": "Masry Post",
-   "url": "https://www.msrypost.com/48180",
-   "d": "2026-11-14"
-  },
-  {
-   "en": "The pound held steady on 14 November, with the dollar at EGP 53.39 buy and 53.49 sell at the National Bank of Egypt.",
-   "ar": "استقر الجنيه يوم 14 نوفمبر، إذ سجل الدولار 53.39 جنيه للشراء و53.49 جنيه للبيع في البنك الأهلي المصري.",
+   "en": "On 15 November Ezz rebar held at EGP 40,850 a ton ex-factory, while the cheapest listed mill, El Ola, was at EGP 35,700.",
+   "ar": "استقر سعر حديد عز يوم 15 نوفمبر عند 40,850 جنيهًا للطن تسليم المصنع، فيما سجل حديد العلا، الأقل سعرًا بين المصانع المذكورة، 35,700 جنيه.",
    "src": "Al Dawla News",
-   "url": "https://aldawlanews.com/1389300",
+   "url": "https://www.aldawlanews.com/1389562",
+   "d": "2026-11-15"
+  },
+  {
+   "en": "The pound was stable on 15 November: the dollar stood at EGP 53.39 buy and 53.49 sell at the National Bank of Egypt.",
+   "ar": "استقر الجنيه يوم 15 نوفمبر، إذ سجل الدولار 53.39 جنيه للشراء و53.49 جنيه للبيع في البنك الأهلي المصري.",
+   "src": "Youm7",
+   "url": "https://www.youm7.com/story/2026/11/15/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF/7618064",
+   "d": "2026-11-15"
+  },
+  {
+   "en": "Madinet Masr's CEO expects property prices to rise 15–20% in 2027 on inflation, building and finance costs; prices in its projects rose about 7% in 2026.",
+   "ar": "يتوقع الرئيس التنفيذي لشركة مدينة مصر ارتفاع أسعار العقارات بنسبة 15 إلى 20% خلال 2027 بسبب التضخم وتكاليف البناء والتمويل، بعد زيادة نحو 7% في أسعار مشروعات الشركة خلال 2026.",
+   "src": "Egy In",
+   "url": "https://www.egyin.com/article/160531/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%B3%D9%84%D8%A7%D9%85-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9",
    "d": "2026-11-14"
   },
   {
-   "en": "A businessmen's association housing official expects new-home prices to rise from early 2027 if high rates and costs persist; land is about 25% of a unit's price.",
-   "ar": "يتوقع مسؤول التطوير العقاري بجمعية رجال الأعمال ارتفاع أسعار الوحدات الجديدة مطلع 2027 إذا استمرت الفائدة والتكاليف المرتفعة، مشيرًا إلى أن الأرض تمثل نحو 25% من سعر الوحدة.",
-   "src": "Property Plus",
-   "url": "https://propertypluseg.com/%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%88%D8%B2%D9%8A-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B4/",
+   "en": "A Keller Williams Egypt and Gateway Financials report put contracted sales at about EGP 1.348 trillion for about 103,600 units in January–September 2026; Cairo listed rents rose about 25%.",
+   "ar": "قدّر تقرير لكيلر ويليامز مصر وجيتواي فايننشالز المبيعات التعاقدية بنحو 1.348 تريليون جنيه لنحو 103,600 وحدة من يناير إلى سبتمبر 2026، وارتفعت الإيجارات المعروضة في القاهرة نحو 25%.",
+   "src": "Khalf El Hadth",
+   "url": "https://khalfelhadth.com/158338",
+   "d": "2026-11-14"
+  },
+  {
+   "en": "Resale owners in older Cairo districts struggle to compete with developers' long payment plans; mortgages are under 1% of GDP and JLL says prices are in a saturation phase.",
+   "ar": "يواجه بائعو الوحدات المستعملة في أحياء القاهرة القديمة صعوبة في منافسة أنظمة السداد الطويلة لدى المطورين، إذ يقل التمويل العقاري عن 1% من الناتج المحلي، وترى JLL أن الأسعار دخلت مرحلة تشبع.",
+   "src": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/12/why-cairos-resale-property-market-struggles-to-compete-with-developers-payment-plans/",
    "d": "2026-11-12"
-  },
-  {
-   "en": "Median monthly rent for new unfurnished flats in Nasr City is about EGP 20,000; Cairo's median rent rose about 25% in the first nine months of 2026.",
-   "ar": "يبلغ متوسط الإيجار الشهري للشقق الجديدة غير المفروشة في مدينة نصر نحو 20 ألف جنيه، وارتفع متوسط الإيجارات في القاهرة نحو 25% خلال أول تسعة أشهر من 2026.",
-   "src": "Al Banker",
-   "url": "https://www.banker.news/160168",
-   "d": "2026-11-12"
-  },
-  {
-   "en": "Annual urban inflation eased to 12.7% in October from 13.9% in September; the central bank raised rates by 100bp on 29 October, putting lending at 21%.",
-   "ar": "تراجع التضخم السنوي في المدن إلى 12.7% في أكتوبر من 13.9% في سبتمبر، بعدما رفع البنك المركزي الفائدة 100 نقطة أساس في 29 أكتوبر ليصل سعر الإقراض إلى 21%.",
-   "src": "Arab News",
-   "url": "https://www.arabnews.com/business/egypts-annual-urban-inflation-eases-to-127-in-october-3010895",
-   "d": "2026-11-10"
-  },
-  {
-   "en": "Real-estate sales reached EGP 1.065 trillion in the first nine months of 2026, up 2%. East Cairo took 40% (EGP 425bn, up 16%).",
-   "ar": "بلغت المبيعات العقارية 1.065 تريليون جنيه في أول تسعة أشهر من 2026 بزيادة 2%، واستحوذ شرق القاهرة على 40% منها (425 مليار جنيه بزيادة 16%).",
-   "src": "Daily News Egypt",
-   "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
-   "d": "2026-11-08"
   }
  ],
  "outlook": {
-  "en": "Sales value grew only 2% in the first nine months of 2026 while average ticket prices rose 7%, so growth is coming from higher prices more than more buyers. Cement is steady, investment-grade rebar eased slightly this week and the pound is stable, but lending near 21% keeps finance expensive. Renewed cost increases, buyers' demands for longer instalments and weaker purchasing power are the main risks for a small developer.",
-  "ar": "لم ترتفع قيمة المبيعات العقارية سوى 2% في أول تسعة أشهر من 2026 بينما زاد متوسط سعر الوحدة 7%، أي أن النمو يأتي من ارتفاع الأسعار أكثر من زيادة المشترين. واستقر الأسمنت وتراجع الحديد الاستثماري قليلًا هذا الأسبوع مع ثبات الجنيه، لكن سعر الإقراض القريب من 21% يبقي التمويل مكلفًا. وتمثل عودة ارتفاع التكاليف وطلب المشترين فترات تقسيط أطول وضعف القدرة الشرائية أبرز المخاطر على المطور الصغير."
+  "en": "Developers are holding headline prices and stretching payment plans rather than cutting, while resale units in older districts such as Nasr City compete with those terms. Rebar and cement were steady this week and the pound is stable, but lending near 21% keeps finance costly. The main risks are slower resale demand, pressure to offer longer instalments and renewed building-cost increases.",
+  "ar": "يحافظ المطورون على أسعار الوحدات المعلنة ويمدّون فترات السداد بدلًا من خفض الأسعار، بينما تنافس الوحدات المستعملة في الأحياء القديمة مثل مدينة نصر هذه الشروط. واستقرت أسعار الحديد والأسمنت هذا الأسبوع وكذلك الجنيه، لكن سعر الإقراض القريب من 21% يبقي التمويل مكلفًا. وتتمثل أبرز المخاطر في تباطؤ الطلب على إعادة البيع، والضغط لتقديم أقساط أطول، وعودة ارتفاع تكاليف البناء."
  },
  "h": [
   {
@@ -171,6 +164,11 @@
   },
   {
    "d": "2026-11-14",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-15",
    "lo": 25000,
    "hi": 40000
   }
