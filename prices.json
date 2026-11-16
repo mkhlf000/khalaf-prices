@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "note": "Prices in EGP from published Egyptian market reports. Refreshed daily.",
  "items": [
   {
@@ -67,6 +67,12 @@
      "p": 40850,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 40850,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -130,6 +136,12 @@
      "p": 40200,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 40200,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -182,6 +194,12 @@
      "p": 39950,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 39950,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -234,6 +252,12 @@
      "p": 39800,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 39800,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -298,6 +322,12 @@
      "p": 39200,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 39200,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -356,6 +386,12 @@
      "p": 38500,
      "src": "Al Dawla News",
      "url": "https://www.aldawlanews.com/1389562"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 38500,
+     "src": "Al Dawla News",
+     "url": "https://www.aldawlanews.com/1389836"
     }
    ]
   },
@@ -430,6 +466,12 @@
      "p": 4200,
      "src": "Masry Post",
      "url": "https://www.msrypost.com/48187"
+    },
+    {
+     "d": "2026-11-16",
+     "p": 4200,
+     "src": "Ahl Masr News",
+     "url": "https://ahlmasrnews.com/news/economy/13505015/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-16-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-2026-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1"
     }
    ]
   },
@@ -608,6 +650,12 @@
      "hi": 6100,
      "src": "Egypt Telegraph",
      "url": "https://egypttelegraph.com/article/295863/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-14-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1"
+    },
+    {
+     "d": "2026-11-15",
+     "p": 5600,
+     "src": "Al Banker",
+     "url": "https://www.banker.news/160760"
     }
    ]
   },
