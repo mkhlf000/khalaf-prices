@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,60 +47,67 @@
  },
  "comps": [
   {
-   "en": "7th Zone, Dr. Abdallah El Araby St., 125 m²",
-   "ar": "الحي السابع، شارع الدكتور عبد الله العربي، 125 م²",
-   "m2": 125,
-   "p": 3600000
-  },
-  {
-   "en": "7th Zone, Dawood Barakat St., 175 m²",
-   "ar": "الحي السابع، شارع داود بركات، 175 م²",
-   "m2": 175,
-   "p": 6000000
-  },
-  {
-   "en": "7th Zone, Dr. Abdallah El Araby St., 175 m²",
-   "ar": "الحي السابع، شارع الدكتور عبد الله العربي، 175 م²",
-   "m2": 175,
-   "p": 4500000
-  },
-  {
-   "en": "7th Zone, El Fadl Ibn El Rabie St., 230 m²",
-   "ar": "الحي السابع، شارع الفضل بن الربيع، 230 م²",
-   "m2": 230,
-   "p": 4500000
-  },
-  {
-   "en": "7th Zone, Zaker Hussein St., 208 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين، 208 م²",
-   "m2": 208,
-   "p": 4400000
-  },
-  {
-   "en": "7th Zone, El Tayaran St., 250 m²",
-   "ar": "الحي السابع، شارع الطيران، 250 م²",
-   "m2": 250,
+   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 200 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 200 م²",
+   "m2": 200,
    "p": 5500000
   },
   {
-   "en": "7th Zone, Al Zohour area behind Nasr City Court, 220 m²",
-   "ar": "الحي السابع، منطقة الزهور خلف محكمة مدينة نصر، 220 م²",
-   "m2": 220,
-   "p": 4000000
+   "en": "7th Zone, International Garden area, 200 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 200 م²",
+   "m2": 200,
+   "p": 5200000
   },
   {
-   "en": "7th Zone, Nasr City, 120 m²",
-   "ar": "الحي السابع، مدينة نصر، 120 م²",
-   "m2": 120,
-   "p": 3900000
+   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 160 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
+   "m2": 160,
+   "p": 5300000
+  },
+  {
+   "en": "7th Zone, Nasr City, 160 m²",
+   "ar": "الحي السابع، مدينة نصر، 160 م²",
+   "m2": 160,
+   "p": 5500000
+  },
+  {
+   "en": "7th Zone, Nasr City, 100 m²",
+   "ar": "الحي السابع، مدينة نصر، 100 م²",
+   "m2": 100,
+   "p": 3000000
+  },
+  {
+   "en": "7th Zone, Nasr City, 205 m²",
+   "ar": "الحي السابع، مدينة نصر، 205 م²",
+   "m2": 205,
+   "p": 7500000
+  },
+  {
+   "en": "7th Zone, Khedr El Tony St., 220 m²",
+   "ar": "الحي السابع، شارع خضر التوني، 220 م²",
+   "m2": 220,
+   "p": 9200000
+  },
+  {
+   "en": "7th Zone, Nasr City, 220 m²",
+   "ar": "الحي السابع، مدينة نصر، 220 م²",
+   "m2": 220,
+   "p": 5100000
   }
  ],
  "news": [
   {
-   "en": "The pound eased slightly on 17 November: the dollar stood at EGP 53.63 buy and 53.73 sell at the National Bank of Egypt.",
-   "ar": "تراجع الجنيه قليلًا يوم 17 نوفمبر، إذ سجل الدولار 53.63 جنيه للشراء و53.73 جنيه للبيع في البنك الأهلي المصري.",
+   "en": "The dollar held steady on 18 November at EGP 53.67 buy and 53.77 sell at the National Bank of Egypt and Banque Misr.",
+   "ar": "استقر الدولار يوم 18 نوفمبر عند 53.67 جنيه للشراء و53.77 جنيه للبيع في البنك الأهلي المصري وبنك مصر.",
    "src": "Youm7",
-   "url": "https://www.youm7.com/story/2026/11/17/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A8%D9%84%D8%AD%D8%B8%D8%A9-53-63-%D8%AC%D9%86%D9%8A%D9%87-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-%D9%81%D9%89/7621118",
+   "url": "https://www.youm7.com/story/2026/11/18/%D8%AB%D8%A8%D8%A7%D8%AA-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-18/7622470",
+   "d": "2026-11-18"
+  },
+  {
+   "en": "MG Development's CEO says 10–15-year payment plans strain developers who must deliver in 4–5 years, and calls for a developer federation and a new real estate law.",
+   "ar": "قال الرئيس التنفيذي لشركة «إم جي للتطوير» إن خطط السداد الممتدة من 10 إلى 15 عامًا ترهق المطورين الملزمين بالتسليم خلال 4 إلى 5 أعوام، ودعا إلى اتحاد للمطورين وقانون عقاري جديد.",
+   "src": "Egy In",
+   "url": "https://www.egyin.com/article/161294/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%80%C2%AB%D8%A5%D9%85-%D8%AC%D9%8A-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%C2%BB-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A",
    "d": "2026-11-17"
   },
   {
@@ -125,23 +132,16 @@
    "d": "2026-11-16"
   },
   {
-   "en": "Businessmen's association deputy head Fathallah Fawzy says three currency floats lifted building costs from about EGP 3,000 to EGP 15,000–20,000 per m².",
-   "ar": "قال فتح الله فوزي، نائب رئيس جمعية رجال الأعمال المصريين، إن ثلاثة تعويمات رفعت تكلفة بناء المتر من نحو 3 آلاف جنيه إلى ما بين 15 و20 ألف جنيه.",
-   "src": "Aleqaria",
-   "url": "https://www.aleqaria.com.eg/post/details/358152/%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-55932",
-   "d": "2026-11-15"
-  },
-  {
-   "en": "Madinet Masr's CEO expects property prices to rise 15–20% in 2027 on inflation, building and finance costs; prices in its projects rose about 7% in 2026.",
-   "ar": "يتوقع الرئيس التنفيذي لشركة مدينة مصر ارتفاع أسعار العقارات بنسبة 15 إلى 20% خلال 2027 بسبب التضخم وتكاليف البناء والتمويل، بعد زيادة نحو 7% في أسعار مشروعات الشركة خلال 2026.",
-   "src": "Egy In",
-   "url": "https://www.egyin.com/article/160531/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%B3%D9%84%D8%A7%D9%85-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9",
-   "d": "2026-11-14"
+   "en": "JLL says Cairo prices have entered a saturation phase; resale units in older central areas struggle to compete with developers' long payment plans.",
+   "ar": "ترى JLL أن الأسعار في القاهرة دخلت مرحلة تشبع، وأن وحدات إعادة البيع في المناطق القديمة بوسط المدينة تجد صعوبة في منافسة خطط السداد الطويلة لدى المطورين.",
+   "src": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/12/why-cairos-resale-property-market-struggles-to-compete-with-developers-payment-plans/",
+   "d": "2026-11-12"
   }
  ],
  "outlook": {
-  "en": "Factory rebar and cement prices held steady today, while the pound eased slightly to about EGP 53.7 per dollar. Banks are checking developers more closely after the central bank raised rates to 20% in late October, and draft rules would demand escrow accounts and 30% construction before off-plan sales. Main risks for a small developer are slower cash collection, costlier finance, and rising labour costs from January.",
-  "ar": "استقرت أسعار الحديد والأسمنت في المصانع اليوم، بينما تراجع الجنيه قليلًا إلى نحو 53.7 جنيه للدولار. وتشدد البنوك فحص المطورين بعد رفع البنك المركزي الفائدة إلى 20% أواخر أكتوبر، وتشترط قواعد مقترحة حسابات ضمان وإنجاز 30% من الإنشاءات قبل البيع على الخريطة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل وارتفاع تكلفة التمويل وزيادة تكلفة العمالة بدءًا من يناير."
+  "en": "Rebar and cement prices were unchanged today and the pound held near EGP 53.7 per dollar. Developers and analysts describe a slower market: price growth is levelling off, buyers lean on long developer payment plans, and resale units in older districts face tough competition. Main risks for a small developer are slow cash collection, finance costs after the rate rise to 20%, higher labour costs from January, and new sales rules now being drafted.",
+  "ar": "استقرت أسعار الحديد والأسمنت اليوم، وظل الجنيه قرب 53.7 جنيه للدولار. ويصف مطورون ومحللون السوق بأنها أبطأ؛ إذ يتباطأ نمو الأسعار، ويعتمد المشترون على خطط السداد الطويلة لدى المطورين، وتواجه وحدات إعادة البيع في الأحياء القديمة منافسة صعبة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتكلفة التمويل بعد رفع الفائدة إلى 20%، وارتفاع تكلفة العمالة بدءًا من يناير، وقواعد البيع الجديدة الجاري إعدادها."
  },
  "h": [
   {
@@ -186,6 +186,11 @@
   },
   {
    "d": "2026-11-17",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-18",
    "lo": 25000,
    "hi": 40000
   }
