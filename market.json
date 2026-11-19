@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,18 +97,32 @@
  ],
  "news": [
   {
-   "en": "The dollar held steady on 18 November at EGP 53.67 buy and 53.77 sell at the National Bank of Egypt and Banque Misr.",
-   "ar": "استقر الدولار يوم 18 نوفمبر عند 53.67 جنيه للشراء و53.77 جنيه للبيع في البنك الأهلي المصري وبنك مصر.",
+   "en": "The dollar was steady on 19 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt and Banque Misr.",
+   "ar": "استقر الدولار يوم 19 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي المصري وبنك مصر.",
    "src": "Youm7",
-   "url": "https://www.youm7.com/story/2026/11/18/%D8%AB%D8%A8%D8%A7%D8%AA-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-18/7622470",
+   "url": "https://www.youm7.com/story/2026/11/19/%D8%AB%D8%A8%D8%A7%D8%AA-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-19/7623860",
+   "d": "2026-11-19"
+  },
+  {
+   "en": "The Al-Adl party bloc plans to submit a draft law regulating developers before 30 November, citing rising prices and rents and many unused units.",
+   "ar": "تعتزم الهيئة البرلمانية لحزب العدل تقديم مشروع قانون لتنظيم المطورين العقاريين قبل 30 نوفمبر، مستندة إلى ارتفاع الأسعار والإيجارات وكثرة الوحدات غير المستغلة.",
+   "src": "Ahl Masr",
+   "url": "https://ahlmasrnews.com/news/egypt-news/13505517/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D9%84",
    "d": "2026-11-18"
   },
   {
-   "en": "MG Development's CEO says 10–15-year payment plans strain developers who must deliver in 4–5 years, and calls for a developer federation and a new real estate law.",
-   "ar": "قال الرئيس التنفيذي لشركة «إم جي للتطوير» إن خطط السداد الممتدة من 10 إلى 15 عامًا ترهق المطورين الملزمين بالتسليم خلال 4 إلى 5 أعوام، ودعا إلى اتحاد للمطورين وقانون عقاري جديد.",
-   "src": "Egy In",
-   "url": "https://www.egyin.com/article/161294/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%80%C2%AB%D8%A5%D9%85-%D8%AC%D9%8A-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%C2%BB-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A",
+   "en": "The housing minister said no old-rent tenant will be evicted before the 7-year transition; 108,000 have applied for alternative units and the deadline moves to January.",
+   "ar": "أكدت وزيرة الإسكان أنه لن يُخلى أي مستأجر بنظام الإيجار القديم قبل انتهاء المهلة الانتقالية البالغة 7 سنوات، وقد تقدم 108 آلاف بطلبات لوحدات بديلة ومُدّ الموعد حتى يناير.",
+   "src": "Youm7",
+   "url": "https://www.youm7.com/story/2026/11/17/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86-%D9%84%D8%B3%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D8%B7%D9%85%D9%86%D9%88%D8%A7-%D9%85%D9%81%D9%8A%D8%B4-%D8%B7%D8%B1%D8%AF-%D9%82%D8%A8%D9%84-7/7621921",
    "d": "2026-11-17"
+  },
+  {
+   "en": "MP Hani Shehata submitted a draft law to regulate the property market and relations between government, developers and buyers, backed by a tenth of MPs.",
+   "ar": "قدّم النائب هاني شحاتة مشروع قانون لتنظيم السوق العقارية والعلاقة بين الحكومة والمطورين والمشترين، بتأييد عُشر أعضاء مجلس النواب.",
+   "src": "Sada Elbalad",
+   "url": "https://www.elbalad.news/7182775",
+   "d": "2026-11-16"
   },
   {
    "en": "Developers now often collect under half of a unit's price by year four, versus up to 70% before delivery in the past; draft rules would require 30% construction before off-plan sales.",
@@ -118,30 +132,16 @@
    "d": "2026-11-16"
   },
   {
-   "en": "The housing minister says stalled projects number only a few dozen; a draft law creating a developer oversight authority and a unified sales contract is expected in parliament within 1–2 months.",
-   "ar": "قالت وزيرة الإسكان إن المشروعات المتعثرة لا تتجاوز بضع عشرات، ومن المنتظر عرض مشروع قانون لإنشاء هيئة رقابية على المطورين وعقد بيع موحد على البرلمان خلال شهر إلى شهرين.",
-   "src": "Enterprise",
-   "url": "https://enterpriseam.com/egypt/2026/11/16/government-highlights-real-estate-and-industrial-challenges/",
-   "d": "2026-11-16"
-  },
-  {
    "en": "Egypt raises the private-sector minimum wage 21% to EGP 8,500 a month from January 2027; tighter rules also mean developers collect less of a unit's price before delivery.",
    "ar": "تقرر رفع الحد الأدنى لأجور القطاع الخاص بنسبة 21% إلى 8,500 جنيه شهريًا اعتبارًا من يناير 2027، كما باتت القواعد الأشد تعني تحصيل المطورين جزءًا أقل من ثمن الوحدة قبل التسليم.",
    "src": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/11/16/raising-the-wage-floor/",
    "d": "2026-11-16"
-  },
-  {
-   "en": "JLL says Cairo prices have entered a saturation phase; resale units in older central areas struggle to compete with developers' long payment plans.",
-   "ar": "ترى JLL أن الأسعار في القاهرة دخلت مرحلة تشبع، وأن وحدات إعادة البيع في المناطق القديمة بوسط المدينة تجد صعوبة في منافسة خطط السداد الطويلة لدى المطورين.",
-   "src": "Enterprise",
-   "url": "https://enterpriseam.com/egypt/2026/11/12/why-cairos-resale-property-market-struggles-to-compete-with-developers-payment-plans/",
-   "d": "2026-11-12"
   }
  ],
  "outlook": {
-  "en": "Rebar and cement prices were unchanged today and the pound held near EGP 53.7 per dollar. Developers and analysts describe a slower market: price growth is levelling off, buyers lean on long developer payment plans, and resale units in older districts face tough competition. Main risks for a small developer are slow cash collection, finance costs after the rate rise to 20%, higher labour costs from January, and new sales rules now being drafted.",
-  "ar": "استقرت أسعار الحديد والأسمنت اليوم، وظل الجنيه قرب 53.7 جنيه للدولار. ويصف مطورون ومحللون السوق بأنها أبطأ؛ إذ يتباطأ نمو الأسعار، ويعتمد المشترون على خطط السداد الطويلة لدى المطورين، وتواجه وحدات إعادة البيع في الأحياء القديمة منافسة صعبة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتكلفة التمويل بعد رفع الفائدة إلى 20%، وارتفاع تكلفة العمالة بدءًا من يناير، وقواعد البيع الجديدة الجاري إعدادها."
+  "en": "Steel and cement prices were broadly stable today and the pound held near EGP 53.8 per dollar. Developers report slower sales and weaker cash collection, while parliament now has several draft laws to regulate developers and off-plan sales. Main risks for a small developer are slow collection, finance costs after the rate rise to 20%, higher labour costs from January, and stricter sales rules.",
+  "ar": "استقرت أسعار الحديد والأسمنت إلى حد كبير اليوم، وظل الجنيه قرب 53.8 جنيه للدولار. ويشير المطورون إلى تباطؤ المبيعات وضعف التحصيل، بينما بات أمام البرلمان أكثر من مشروع قانون لتنظيم المطورين والبيع على الخريطة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتكلفة التمويل بعد رفع الفائدة إلى 20%، وارتفاع تكلفة العمالة بدءًا من يناير، وتشديد قواعد البيع."
  },
  "h": [
   {
@@ -191,6 +191,11 @@
   },
   {
    "d": "2026-11-18",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-19",
    "lo": 25000,
    "hi": 40000
   }
