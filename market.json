@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,9 +47,21 @@
  },
  "comps": [
   {
-   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 200 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 200 م²",
-   "m2": 200,
+   "en": "7th Zone, International Garden area, 180 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 180 م²",
+   "m2": 180,
+   "p": 6000000
+  },
+  {
+   "en": "7th Zone, International Garden area, 235 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 235 م²",
+   "m2": 235,
+   "p": 5000000
+  },
+  {
+   "en": "7th Zone, International Garden area, 220 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م²",
+   "m2": 220,
    "p": 5500000
   },
   {
@@ -59,48 +71,50 @@
    "p": 5200000
   },
   {
-   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 160 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
-   "m2": 160,
-   "p": 5300000
+   "en": "7th Zone, International Garden area, 190 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 190 م²",
+   "m2": 190,
+   "p": 6000000
   },
   {
-   "en": "7th Zone, Nasr City, 160 m²",
-   "ar": "الحي السابع، مدينة نصر، 160 م²",
-   "m2": 160,
-   "p": 5500000
-  },
-  {
-   "en": "7th Zone, Nasr City, 100 m²",
-   "ar": "الحي السابع، مدينة نصر، 100 م²",
-   "m2": 100,
-   "p": 3000000
-  },
-  {
-   "en": "7th Zone, Nasr City, 205 m²",
-   "ar": "الحي السابع، مدينة نصر، 205 م²",
-   "m2": 205,
-   "p": 7500000
-  },
-  {
-   "en": "7th Zone, Khedr El Tony St., 220 m²",
-   "ar": "الحي السابع، شارع خضر التوني، 220 م²",
+   "en": "7th Zone, International Garden area, 220 m² (ultra super lux, garage)",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م² (ألترا سوبر لوكس، جراج)",
    "m2": 220,
    "p": 9200000
   },
   {
-   "en": "7th Zone, Nasr City, 220 m²",
-   "ar": "الحي السابع، مدينة نصر، 220 م²",
-   "m2": 220,
-   "p": 5100000
+   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 160 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
+   "m2": 160,
+   "p": 6000000
+  },
+  {
+   "en": "8th Zone, Mostafa El Nahas St., 130 m²",
+   "ar": "الحي الثامن، شارع مصطفى النحاس، 130 م²",
+   "m2": 130,
+   "p": 3800000
   }
  ],
  "news": [
   {
-   "en": "The dollar was steady on 19 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt and Banque Misr.",
-   "ar": "استقر الدولار يوم 19 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي المصري وبنك مصر.",
-   "src": "Youm7",
-   "url": "https://www.youm7.com/story/2026/11/19/%D8%AB%D8%A8%D8%A7%D8%AA-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%81%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-19/7623860",
+   "en": "The dollar held on Friday 20 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt, Banque Misr and CIB, unchanged from Thursday.",
+   "ar": "استقر الدولار يوم الجمعة 20 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي وبنك مصر والبنك التجاري الدولي، دون تغيير عن الخميس.",
+   "src": "Masry Post",
+   "url": "https://www.msrypost.com/48240",
+   "d": "2026-11-20"
+  },
+  {
+   "en": "A property consultant proposed a developers’ federation ranking firms by record and solvency, licensing for marketers, and an ID number for every unit.",
+   "ar": "اقترح مستشار عقاري إنشاء اتحاد للمطورين يصنّف الشركات وفق سجلها وملاءتها المالية، وترخيص المسوّقين العقاريين، ومنح كل وحدة رقمًا قوميًا.",
+   "src": "Property Plus",
+   "url": "https://propertypluseg.com/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81/",
+   "d": "2026-11-19"
+  },
+  {
+   "en": "Al Salem Bokra, described as Egypt’s first Sharia-compliant real-estate fund, launched with a first issue targeting over EGP 25bn of assets.",
+   "ar": "أُطلق صندوق «السالم بكرة»، الموصوف بأنه أول صندوق استثمار عقاري متوافق مع الشريعة في مصر، بإصدار أول يستهدف أصولًا تتجاوز 25 مليار جنيه.",
+   "src": "Invest-Gate",
+   "url": "https://invest-gate.me/news/launch-of-al-salem-bokra-egypts-first-sharia-compliant-real-estate-investment-fund/",
    "d": "2026-11-19"
   },
   {
@@ -111,18 +125,11 @@
    "d": "2026-11-18"
   },
   {
-   "en": "The housing minister said no old-rent tenant will be evicted before the 7-year transition; 108,000 have applied for alternative units and the deadline moves to January.",
-   "ar": "أكدت وزيرة الإسكان أنه لن يُخلى أي مستأجر بنظام الإيجار القديم قبل انتهاء المهلة الانتقالية البالغة 7 سنوات، وقد تقدم 108 آلاف بطلبات لوحدات بديلة ومُدّ الموعد حتى يناير.",
-   "src": "Youm7",
-   "url": "https://www.youm7.com/story/2026/11/17/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86-%D9%84%D8%B3%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D8%B7%D9%85%D9%86%D9%88%D8%A7-%D9%85%D9%81%D9%8A%D8%B4-%D8%B7%D8%B1%D8%AF-%D9%82%D8%A8%D9%84-7/7621921",
+   "en": "The Central Bank of Egypt’s last monetary policy meeting of 2026 is scheduled for Thursday 17 December.",
+   "ar": "من المقرر أن يعقد البنك المركزي المصري آخر اجتماعات لجنة السياسة النقدية لعام 2026 يوم الخميس 17 ديسمبر.",
+   "src": "EgyIn",
+   "url": "https://www.egyin.com/article/160996/%D9%85%D9%88%D8%B9%D8%AF-%D8%A2%D8%AE%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%81%D9%8A-2026-%D9%84%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1",
    "d": "2026-11-17"
-  },
-  {
-   "en": "MP Hani Shehata submitted a draft law to regulate the property market and relations between government, developers and buyers, backed by a tenth of MPs.",
-   "ar": "قدّم النائب هاني شحاتة مشروع قانون لتنظيم السوق العقارية والعلاقة بين الحكومة والمطورين والمشترين، بتأييد عُشر أعضاء مجلس النواب.",
-   "src": "Sada Elbalad",
-   "url": "https://www.elbalad.news/7182775",
-   "d": "2026-11-16"
   },
   {
    "en": "Developers now often collect under half of a unit's price by year four, versus up to 70% before delivery in the past; draft rules would require 30% construction before off-plan sales.",
@@ -130,18 +137,11 @@
    "src": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/11/16/developers-finding-it-harder-to-fund-construction-through-long-installment-plans/",
    "d": "2026-11-16"
-  },
-  {
-   "en": "Egypt raises the private-sector minimum wage 21% to EGP 8,500 a month from January 2027; tighter rules also mean developers collect less of a unit's price before delivery.",
-   "ar": "تقرر رفع الحد الأدنى لأجور القطاع الخاص بنسبة 21% إلى 8,500 جنيه شهريًا اعتبارًا من يناير 2027، كما باتت القواعد الأشد تعني تحصيل المطورين جزءًا أقل من ثمن الوحدة قبل التسليم.",
-   "src": "Enterprise",
-   "url": "https://enterpriseam.com/egypt/2026/11/16/raising-the-wage-floor/",
-   "d": "2026-11-16"
   }
  ],
  "outlook": {
-  "en": "Steel and cement prices were broadly stable today and the pound held near EGP 53.8 per dollar. Developers report slower sales and weaker cash collection, while parliament now has several draft laws to regulate developers and off-plan sales. Main risks for a small developer are slow collection, finance costs after the rate rise to 20%, higher labour costs from January, and stricter sales rules.",
-  "ar": "استقرت أسعار الحديد والأسمنت إلى حد كبير اليوم، وظل الجنيه قرب 53.8 جنيه للدولار. ويشير المطورون إلى تباطؤ المبيعات وضعف التحصيل، بينما بات أمام البرلمان أكثر من مشروع قانون لتنظيم المطورين والبيع على الخريطة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتكلفة التمويل بعد رفع الفائدة إلى 20%، وارتفاع تكلفة العمالة بدءًا من يناير، وتشديد قواعد البيع."
+  "en": "Steel and factory cement prices held steady this week, while sand and gravel edged up, and the pound stayed near EGP 53.8 per dollar. Current 7th Zone listings ask about EGP 21,000–42,000 per m², Aqarmap puts the zone average near 27,600, and talk of regulating developers and off-plan sales continues. Main risks for a small developer are slower cash collection, the CBE decision on 17 December, higher wages from January and stricter sales rules.",
+  "ar": "استقرت أسعار الحديد والأسمنت تسليم المصنع هذا الأسبوع، مع ارتفاع طفيف في أسعار الرمل والزلط، وظل الجنيه قرب 53.8 جنيه للدولار. وتتراوح أسعار الشقق المعروضة حاليًا في الحي السابع بين نحو 21 و42 ألف جنيه للمتر، ويقدّر عقارماب متوسط المنطقة بنحو 27,600 جنيه، بينما يتواصل الحديث عن تنظيم المطورين والبيع على الخريطة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وقرار البنك المركزي في 17 ديسمبر، وارتفاع الأجور بدءًا من يناير، وتشديد قواعد البيع."
  },
  "h": [
   {
@@ -196,6 +196,11 @@
   },
   {
    "d": "2026-11-19",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-20",
    "lo": 25000,
    "hi": 40000
   }
