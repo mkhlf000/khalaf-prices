@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,24 +97,17 @@
  ],
  "news": [
   {
-   "en": "The dollar held on Friday 20 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt, Banque Misr and CIB, unchanged from Thursday.",
-   "ar": "استقر الدولار يوم الجمعة 20 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي وبنك مصر والبنك التجاري الدولي، دون تغيير عن الخميس.",
+   "en": "The dollar was steady on Saturday 21 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt, Banque Misr and CIB, at last week's closing levels.",
+   "ar": "استقر الدولار يوم السبت 21 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي وبنك مصر والبنك التجاري الدولي، عند مستويات إغلاق الأسبوع الماضي.",
    "src": "Masry Post",
-   "url": "https://www.msrypost.com/48240",
-   "d": "2026-11-20"
+   "url": "https://www.msrypost.com/48254",
+   "d": "2026-11-21"
   },
   {
    "en": "A property consultant proposed a developers’ federation ranking firms by record and solvency, licensing for marketers, and an ID number for every unit.",
    "ar": "اقترح مستشار عقاري إنشاء اتحاد للمطورين يصنّف الشركات وفق سجلها وملاءتها المالية، وترخيص المسوّقين العقاريين، ومنح كل وحدة رقمًا قوميًا.",
    "src": "Property Plus",
    "url": "https://propertypluseg.com/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81/",
-   "d": "2026-11-19"
-  },
-  {
-   "en": "Al Salem Bokra, described as Egypt’s first Sharia-compliant real-estate fund, launched with a first issue targeting over EGP 25bn of assets.",
-   "ar": "أُطلق صندوق «السالم بكرة»، الموصوف بأنه أول صندوق استثمار عقاري متوافق مع الشريعة في مصر، بإصدار أول يستهدف أصولًا تتجاوز 25 مليار جنيه.",
-   "src": "Invest-Gate",
-   "url": "https://invest-gate.me/news/launch-of-al-salem-bokra-egypts-first-sharia-compliant-real-estate-investment-fund/",
    "d": "2026-11-19"
   },
   {
@@ -137,11 +130,18 @@
    "src": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/11/16/developers-finding-it-harder-to-fund-construction-through-long-installment-plans/",
    "d": "2026-11-16"
+  },
+  {
+   "en": "The Housing Minister said draft laws regulating the property market go to parliament within a month, with a unified sales contract and full refunds or fines for late delivery.",
+   "ar": "قالت وزيرة الإسكان إن مشروعات قوانين تنظيم السوق العقارية ستُحال إلى البرلمان خلال شهر، وتتضمن عقدًا موحدًا ورد كامل المبلغ أو غرامة عند التأخر في التسليم.",
+   "src": "Youlyou",
+   "url": "https://www.youlyou.com/95327",
+   "d": "2026-11-15"
   }
  ],
  "outlook": {
-  "en": "Steel and factory cement prices held steady this week, while sand and gravel edged up, and the pound stayed near EGP 53.8 per dollar. Current 7th Zone listings ask about EGP 21,000–42,000 per m², Aqarmap puts the zone average near 27,600, and talk of regulating developers and off-plan sales continues. Main risks for a small developer are slower cash collection, the CBE decision on 17 December, higher wages from January and stricter sales rules.",
-  "ar": "استقرت أسعار الحديد والأسمنت تسليم المصنع هذا الأسبوع، مع ارتفاع طفيف في أسعار الرمل والزلط، وظل الجنيه قرب 53.8 جنيه للدولار. وتتراوح أسعار الشقق المعروضة حاليًا في الحي السابع بين نحو 21 و42 ألف جنيه للمتر، ويقدّر عقارماب متوسط المنطقة بنحو 27,600 جنيه، بينما يتواصل الحديث عن تنظيم المطورين والبيع على الخريطة. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وقرار البنك المركزي في 17 ديسمبر، وارتفاع الأجور بدءًا من يناير، وتشديد قواعد البيع."
+  "en": "Steel and cement prices held steady this week at about EGP 40,850 per ton for Ezz rebar and 3,880 for Suez cement, while sand rose slightly and the pound stayed near EGP 53.8 per dollar. The government plans to send property-market laws to parliament within a month, including a unified contract and refunds for late delivery. Main risks for a small developer are slower cash collection, stricter sales and delivery rules, and the central bank decision on 17 December.",
+  "ar": "استقرت أسعار الحديد والأسمنت هذا الأسبوع عند نحو 40,850 جنيهًا لطن حديد عز و3,880 جنيهًا لطن أسمنت السويس، مع ارتفاع طفيف في سعر الرمل، وظل الجنيه قرب 53.8 جنيه للدولار. وتعتزم الحكومة إحالة قوانين تنظيم السوق العقارية إلى البرلمان خلال شهر، بما يشمل عقدًا موحدًا ورد المبالغ عند التأخر في التسليم. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتشديد قواعد البيع والتسليم، وقرار البنك المركزي في 17 ديسمبر."
  },
  "h": [
   {
@@ -201,6 +201,11 @@
   },
   {
    "d": "2026-11-20",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-21",
    "lo": 25000,
    "hi": 40000
   }
