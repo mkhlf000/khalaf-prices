@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,68 +47,82 @@
  },
  "comps": [
   {
-   "en": "7th Zone, International Garden area, 180 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 180 م²",
+   "en": "6th Zone, Hafez Ramadan St., 125 m²",
+   "ar": "المنطقة السادسة، شارع حافظ رمضان، 125 م²",
+   "m2": 125,
+   "p": 5800000
+  },
+  {
+   "en": "7th Zone, El Mahdy Ben Baraka St., 180 m²",
+   "ar": "الحي السابع، شارع المهدي بن بركة، 180 م²",
    "m2": 180,
    "p": 6000000
   },
   {
-   "en": "7th Zone, International Garden area, 235 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 235 م²",
-   "m2": 235,
-   "p": 5000000
-  },
-  {
-   "en": "7th Zone, International Garden area, 220 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م²",
+   "en": "7th Zone, El Mahdy Ben Baraka St., 220 m²",
+   "ar": "الحي السابع، شارع المهدي بن بركة، 220 م²",
    "m2": 220,
    "p": 5500000
   },
   {
-   "en": "7th Zone, International Garden area, 200 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 200 م²",
-   "m2": 200,
-   "p": 5200000
+   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 100 m²",
+   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 100 م²",
+   "m2": 100,
+   "p": 2600000
   },
   {
-   "en": "7th Zone, International Garden area, 190 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 190 م²",
-   "m2": 190,
-   "p": 6000000
-  },
-  {
-   "en": "7th Zone, International Garden area, 220 m² (ultra super lux, garage)",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 220 م² (ألترا سوبر لوكس، جراج)",
+   "en": "6th Zone, Hafez Ramadan St., 220 m²",
+   "ar": "المنطقة السادسة، شارع حافظ رمضان، 220 م²",
    "m2": 220,
-   "p": 9200000
-  },
-  {
-   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 160 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 160 م²",
-   "m2": 160,
    "p": 6000000
   },
   {
-   "en": "8th Zone, Mostafa El Nahas St., 130 m²",
-   "ar": "الحي الثامن، شارع مصطفى النحاس، 130 م²",
-   "m2": 130,
-   "p": 3800000
+   "en": "6th Zone, Sheikh Ahmed El Sawy St., 220 m² (super lux)",
+   "ar": "المنطقة السادسة، شارع الشيخ أحمد الصاوي، 220 م² (سوبر لوكس)",
+   "m2": 220,
+   "p": 4000000
+  },
+  {
+   "en": "8th Zone, Mostafa El Nahas St., 240 m²",
+   "ar": "الحي الثامن، شارع مصطفى النحاس، 240 م²",
+   "m2": 240,
+   "p": 8000000
+  },
+  {
+   "en": "8th Zone, Yassin Ragheb St., 90 m²",
+   "ar": "المنطقة الثامنة، شارع يس راغب، 90 م²",
+   "m2": 90,
+   "p": 2500000
   }
  ],
  "news": [
+  {
+   "en": "At a developers' summit, Orascom Development's CEO said O-West sales rose over 50% this year, and TLD's CEO said about 1,200 of its units are due for delivery in 2027.",
+   "ar": "في قمة للمطورين، قال الرئيس التنفيذي لأوراسكوم للتنمية إن مبيعات أو ويست ارتفعت بأكثر من 50% هذا العام، وقال رئيس TLD إن نحو 1200 وحدة من وحداتها ستُسلَّم في 2027.",
+   "src": "EgyIn",
+   "url": "https://www.egyin.com/article/162056/%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%8A%D8%B1%D8%B3%D9%85%D9%88%D9%86-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
+   "d": "2026-11-22"
+  },
+  {
+   "en": "Aqarmap's November 2026 data puts the average asking price for apartments in Nasr City's 7th Zone at EGP 27,608 per m², up 9.1% over 12 months.",
+   "ar": "تُظهر بيانات عقار ماب لشهر نوفمبر 2026 أن متوسط سعر المتر للشقق في الحي السابع بمدينة نصر بلغ 27,608 جنيهات، بزيادة 9.1% خلال 12 شهرًا.",
+   "src": "Aqarmap",
+   "url": "https://aqarmap.com.eg/ar/neighborhood/cairo/nasr-city/el-hay-el-sabea/",
+   "d": "2026-11-22"
+  },
+  {
+   "en": "The Housing Minister said a law creating an independent authority to monitor developers' delivery schedules is expected within a month, and rejected describing the market as a bubble.",
+   "ar": "قالت وزيرة الإسكان إن قانونًا ينشئ هيئة مستقلة لمتابعة التزام المطورين بمواعيد التسليم متوقع خلال شهر، ورفضت وصف السوق بالفقاعة.",
+   "src": "Youlyou",
+   "url": "https://www.youlyou.com/99592",
+   "d": "2026-11-21"
+  },
   {
    "en": "The dollar was steady on Saturday 21 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt, Banque Misr and CIB, at last week's closing levels.",
    "ar": "استقر الدولار يوم السبت 21 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي وبنك مصر والبنك التجاري الدولي، عند مستويات إغلاق الأسبوع الماضي.",
    "src": "Masry Post",
    "url": "https://www.msrypost.com/48254",
    "d": "2026-11-21"
-  },
-  {
-   "en": "A property consultant proposed a developers’ federation ranking firms by record and solvency, licensing for marketers, and an ID number for every unit.",
-   "ar": "اقترح مستشار عقاري إنشاء اتحاد للمطورين يصنّف الشركات وفق سجلها وملاءتها المالية، وترخيص المسوّقين العقاريين، ومنح كل وحدة رقمًا قوميًا.",
-   "src": "Property Plus",
-   "url": "https://propertypluseg.com/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81/",
-   "d": "2026-11-19"
   },
   {
    "en": "The Al-Adl party bloc plans to submit a draft law regulating developers before 30 November, citing rising prices and rents and many unused units.",
@@ -123,25 +137,11 @@
    "src": "EgyIn",
    "url": "https://www.egyin.com/article/160996/%D9%85%D9%88%D8%B9%D8%AF-%D8%A2%D8%AE%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%81%D9%8A-2026-%D9%84%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1",
    "d": "2026-11-17"
-  },
-  {
-   "en": "Developers now often collect under half of a unit's price by year four, versus up to 70% before delivery in the past; draft rules would require 30% construction before off-plan sales.",
-   "ar": "بات المطورون يحصّلون غالبًا أقل من نصف ثمن الوحدة بحلول العام الرابع، مقابل ما يصل إلى 70% قبل التسليم سابقًا، وتشترط قواعد مقترحة إنجاز 30% من الإنشاءات قبل البيع على الخريطة.",
-   "src": "Enterprise",
-   "url": "https://enterpriseam.com/egypt/2026/11/16/developers-finding-it-harder-to-fund-construction-through-long-installment-plans/",
-   "d": "2026-11-16"
-  },
-  {
-   "en": "The Housing Minister said draft laws regulating the property market go to parliament within a month, with a unified sales contract and full refunds or fines for late delivery.",
-   "ar": "قالت وزيرة الإسكان إن مشروعات قوانين تنظيم السوق العقارية ستُحال إلى البرلمان خلال شهر، وتتضمن عقدًا موحدًا ورد كامل المبلغ أو غرامة عند التأخر في التسليم.",
-   "src": "Youlyou",
-   "url": "https://www.youlyou.com/95327",
-   "d": "2026-11-15"
   }
  ],
  "outlook": {
-  "en": "Steel and cement prices held steady this week at about EGP 40,850 per ton for Ezz rebar and 3,880 for Suez cement, while sand rose slightly and the pound stayed near EGP 53.8 per dollar. The government plans to send property-market laws to parliament within a month, including a unified contract and refunds for late delivery. Main risks for a small developer are slower cash collection, stricter sales and delivery rules, and the central bank decision on 17 December.",
-  "ar": "استقرت أسعار الحديد والأسمنت هذا الأسبوع عند نحو 40,850 جنيهًا لطن حديد عز و3,880 جنيهًا لطن أسمنت السويس، مع ارتفاع طفيف في سعر الرمل، وظل الجنيه قرب 53.8 جنيه للدولار. وتعتزم الحكومة إحالة قوانين تنظيم السوق العقارية إلى البرلمان خلال شهر، بما يشمل عقدًا موحدًا ورد المبالغ عند التأخر في التسليم. وأبرز المخاطر أمام المطور الصغير بطء التحصيل، وتشديد قواعد البيع والتسليم، وقرار البنك المركزي في 17 ديسمبر."
+  "en": "Building-material prices were mostly steady on 22 November: the main rebar brands held at about EGP 38,500–40,200 per ton, while the Cabinet portal's average grey-cement price fell about 3.6% to EGP 3,940. Aqarmap puts 7th Zone apartments at about EGP 27,600 per m², up 9.1% in a year. Main risks for a small developer are the coming property law with stricter delivery and refund rules, slower sales as buyers wait, and the central bank decision on 17 December.",
+  "ar": "استقرت أسعار مواد البناء في معظمها يوم 22 نوفمبر، إذ ثبتت أسعار أبرز علامات حديد التسليح عند نحو 38,500 إلى 40,200 جنيه للطن، بينما تراجع متوسط سعر الأسمنت الرمادي على بوابة مجلس الوزراء بنحو 3.6% إلى 3,940 جنيهًا. ويقدّر عقار ماب سعر متر الشقق في الحي السابع بنحو 27,600 جنيه، بارتفاع 9.1% خلال عام. وأبرز المخاطر على المطور الصغير قانون السوق العقارية المرتقب بقواعده الأشد في التسليم والاسترداد، وتباطؤ المبيعات مع ترقب المشترين، وقرار البنك المركزي في 17 ديسمبر."
  },
  "h": [
   {
@@ -206,6 +206,11 @@
   },
   {
    "d": "2026-11-21",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-22",
    "lo": 25000,
    "hi": 40000
   }
