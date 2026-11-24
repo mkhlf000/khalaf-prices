@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,6 +47,12 @@
  },
  "comps": [
   {
+   "en": "7th Zone, main Al Tayaran St., 225 m²",
+   "ar": "الحي السابع، شارع الطيران الرئيسي، 225 م²",
+   "m2": 225,
+   "p": 8200000
+  },
+  {
    "en": "7th Zone, International Garden area, 175 m²",
    "ar": "الحي السابع، منطقة الحديقة الدولية، 175 م²",
    "m2": 175,
@@ -87,15 +93,30 @@
    "ar": "الحي السابع، واجهة مطلة على حديقة، 180 م²",
    "m2": 180,
    "p": 5500000
-  },
-  {
-   "en": "7th Zone, behind the International Garden, 220 m²",
-   "ar": "الحي السابع، خلف الحديقة الدولية، 220 م²",
-   "m2": 220,
-   "p": 7000000
   }
  ],
  "news": [
+  {
+   "en": "A developer told Masrawy the market is in a major correction under tighter state regulation, with buyers now preferring ready units and income-producing property.",
+   "ar": "قال مطور عقاري لموقع مصراوي إن السوق يمر بمرحلة تصحيح كبيرة مع تشديد الدولة للرقابة، وإن المشترين باتوا يفضّلون الوحدات الجاهزة والأصول المدرّة للعائد.",
+   "src": "Masrawy",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/11/23/3083345/%D9%85%D8%B7%D9%88%D8%B1-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D9%8A%D9%85%D8%B1-%D8%A8%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%88%D9%86-%D9%8A%D8%AA%D8%AC%D9%87%D9%88%D9%86-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D8%A6%D8%AF-",
+   "d": "2026-11-23"
+  },
+  {
+   "en": "The Central Bank's last rate meeting of 2026 is on 17 December. A former bank chairman puts the chance of another 1% hike at 70%, after a 1% rise at the previous meeting.",
+   "ar": "يُعقد آخر اجتماع للبنك المركزي بشأن الفائدة في 2026 يوم 17 ديسمبر، ويرجّح رئيس بنك سابق بنسبة 70% رفعها 1% أخرى بعد زيادة مماثلة في الاجتماع السابق.",
+   "src": "EgyIn",
+   "url": "https://www.egyin.com/article/162401/%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%84",
+   "d": "2026-11-23"
+  },
+  {
+   "en": "Phase 3 of the 'Beitak fi Masr' scheme for Egyptians abroad offers about 4,000 finished units priced in dollars, e.g. Madinaty at about USD 864 per m².",
+   "ar": "تطرح المرحلة الثالثة من مبادرة «بيتك في مصر» للمصريين بالخارج نحو 4 آلاف وحدة كاملة التشطيب مسعّرة بالدولار، منها وحدات في مدينتي بنحو 864 دولارًا للمتر.",
+   "src": "EgyIn",
+   "url": "https://www.egyin.com/article/162189/%D8%B4%D9%82%D9%82-%D8%A8%D9%8A%D8%AA%D9%83-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA",
+   "d": "2026-11-23"
+  },
   {
    "en": "The Housing Ministry is studying a market law with an independent developer regulator, a developers' union that grades firms, a standard sales contract, and a full refund or fine when delivery is late.",
    "ar": "تدرس وزارة الإسكان قانونًا للسوق العقارية يتضمن هيئة مستقلة للرقابة على المطورين، واتحادًا يصنّف الشركات، وعقدًا موحدًا، واسترداد المبالغ كاملة أو غرامة عند التأخر في التسليم.",
@@ -111,37 +132,16 @@
    "d": "2026-11-22"
   },
   {
-   "en": "At a developers' summit, Orascom Development's CEO said O-West sales rose over 50% this year, and TLD's CEO said about 1,200 of its units are due for delivery in 2027.",
-   "ar": "في قمة للمطورين، قال الرئيس التنفيذي لأوراسكوم للتنمية إن مبيعات أو ويست ارتفعت بأكثر من 50% هذا العام، وقال رئيس TLD إن نحو 1200 وحدة من وحداتها ستُسلَّم في 2027.",
-   "src": "EgyIn",
-   "url": "https://www.egyin.com/article/162056/%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%8A%D8%B1%D8%B3%D9%85%D9%88%D9%86-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
-   "d": "2026-11-22"
-  },
-  {
    "en": "Aqarmap's November 2026 data puts the average asking price for apartments in Nasr City's 7th Zone at EGP 27,608 per m², up 9.1% over 12 months.",
    "ar": "تُظهر بيانات عقار ماب لشهر نوفمبر 2026 أن متوسط سعر المتر للشقق في الحي السابع بمدينة نصر بلغ 27,608 جنيهات، بزيادة 9.1% خلال 12 شهرًا.",
    "src": "Aqarmap",
    "url": "https://aqarmap.com.eg/ar/neighborhood/cairo/nasr-city/el-hay-el-sabea/",
    "d": "2026-11-22"
-  },
-  {
-   "en": "The Housing Minister said a law creating an independent authority to monitor developers' delivery schedules is expected within a month, and rejected describing the market as a bubble.",
-   "ar": "قالت وزيرة الإسكان إن قانونًا ينشئ هيئة مستقلة لمتابعة التزام المطورين بمواعيد التسليم متوقع خلال شهر، ورفضت وصف السوق بالفقاعة.",
-   "src": "Youlyou",
-   "url": "https://www.youlyou.com/99592",
-   "d": "2026-11-21"
-  },
-  {
-   "en": "The dollar was steady on Saturday 21 November at EGP 53.77 buy and 53.87 sell at the National Bank of Egypt, Banque Misr and CIB, at last week's closing levels.",
-   "ar": "استقر الدولار يوم السبت 21 نوفمبر عند 53.77 جنيه للشراء و53.87 جنيه للبيع في البنك الأهلي وبنك مصر والبنك التجاري الدولي، عند مستويات إغلاق الأسبوع الماضي.",
-   "src": "Masry Post",
-   "url": "https://www.msrypost.com/48254",
-   "d": "2026-11-21"
   }
  ],
  "outlook": {
-  "en": "Rebar and cement prices held steady on 23 November, with main rebar brands at EGP 38,500–40,850 per ton ex-factory and grey cement near EGP 4,200 in the market. 7th Zone listings on Bayut mostly ask EGP 5–7m for 175–235 m² flats. The main risk for a small developer is new regulation: a ministry law and an MP draft both propose escrow, licensing and refund rules with heavy penalties.",
-  "ar": "استقرت أسعار الحديد والأسمنت يوم 23 نوفمبر، إذ تراوحت أبرز علامات حديد التسليح بين 38,500 و40,850 جنيهًا للطن تسليم المصنع، وبلغ الأسمنت الرمادي نحو 4,200 جنيه في السوق. ويُطلب في معظم شقق الحي السابع المعروضة على موقع بايوت ما بين 5 و7 ملايين جنيه لمساحات من 175 إلى 235 م². وأبرز المخاطر على المطور الصغير التنظيم المرتقب، إذ يقترح قانون الوزارة ومشروع قانون نيابي حسابات ضمان وتراخيص وقواعد استرداد بعقوبات مشددة."
+  "en": "Rebar and cement held steady on 24 November, with main rebar brands at EGP 38,500–40,850 per ton ex-factory and grey cement near EGP 4,200. Developers describe a correction in which buyers favour ready units. The main risks for a small developer are a possible further rate rise on 17 December, a dollar above EGP 54, and new rules on escrow, licensing and late-delivery refunds.",
+  "ar": "استقرت أسعار الحديد والأسمنت يوم 24 نوفمبر، إذ تراوحت أبرز علامات حديد التسليح بين 38,500 و40,850 جنيهًا للطن تسليم المصنع، وبلغ الأسمنت الرمادي نحو 4,200 جنيه. ويصف مطورون السوق بأنه في مرحلة تصحيح يفضّل فيها المشترون الوحدات الجاهزة. وأبرز المخاطر على المطور الصغير احتمال رفع جديد للفائدة في 17 ديسمبر، وتجاوز الدولار 54 جنيهًا، والقواعد المرتقبة بشأن حسابات الضمان والتراخيص واسترداد المبالغ عند تأخر التسليم."
  },
  "h": [
   {
@@ -216,6 +216,11 @@
   },
   {
    "d": "2026-11-23",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-24",
    "lo": 25000,
    "hi": 40000
   }
