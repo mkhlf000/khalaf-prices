@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,6 +97,20 @@
  ],
  "news": [
   {
+   "en": "JLL says Q3 rents rose 15.5% in New Cairo and 15% in 6th of October year on year, while sale prices rose only 3.6% and building costs climbed about 19% since January.",
+   "ar": "أفادت «جيه إل إل» بارتفاع إيجارات الشقق في الربع الثالث 15.5% بالقاهرة الجديدة و15% بأكتوبر على أساس سنوي، مقابل زيادة 3.6% فقط في أسعار البيع ونحو 19% في تكاليف البناء منذ يناير.",
+   "src": "Masrawy",
+   "url": "https://www.masrawy.com/news/realestate-news/details/2026/11/24/3083679/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%82%D9%82-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-15-5-%D9%886-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-15-%D8%AE%D9%84%D8%A7%D9%84-2026",
+   "d": "2026-11-24"
+  },
+  {
+   "en": "The dollar eased on 24 November, closing at EGP 54.17 buy and 54.30 sell at the Central Bank.",
+   "ar": "تراجع الدولار في 24 نوفمبر ليُغلق لدى البنك المركزي عند 54.17 جنيه للشراء و54.30 جنيه للبيع.",
+   "src": "Al Aqaria",
+   "url": "https://www.aleqaria.com.eg/post/details/359411/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-31030",
+   "d": "2026-11-24"
+  },
+  {
    "en": "A developer told Masrawy the market is in a major correction under tighter state regulation, with buyers now preferring ready units and income-producing property.",
    "ar": "قال مطور عقاري لموقع مصراوي إن السوق يمر بمرحلة تصحيح كبيرة مع تشديد الدولة للرقابة، وإن المشترين باتوا يفضّلون الوحدات الجاهزة والأصول المدرّة للعائد.",
    "src": "Masrawy",
@@ -111,24 +125,10 @@
    "d": "2026-11-23"
   },
   {
-   "en": "Phase 3 of the 'Beitak fi Masr' scheme for Egyptians abroad offers about 4,000 finished units priced in dollars, e.g. Madinaty at about USD 864 per m².",
-   "ar": "تطرح المرحلة الثالثة من مبادرة «بيتك في مصر» للمصريين بالخارج نحو 4 آلاف وحدة كاملة التشطيب مسعّرة بالدولار، منها وحدات في مدينتي بنحو 864 دولارًا للمتر.",
-   "src": "EgyIn",
-   "url": "https://www.egyin.com/article/162189/%D8%B4%D9%82%D9%82-%D8%A8%D9%8A%D8%AA%D9%83-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA",
-   "d": "2026-11-23"
-  },
-  {
    "en": "The Housing Ministry is studying a market law with an independent developer regulator, a developers' union that grades firms, a standard sales contract, and a full refund or fine when delivery is late.",
    "ar": "تدرس وزارة الإسكان قانونًا للسوق العقارية يتضمن هيئة مستقلة للرقابة على المطورين، واتحادًا يصنّف الشركات، وعقدًا موحدًا، واسترداد المبالغ كاملة أو غرامة عند التأخر في التسليم.",
    "src": "EgyIn",
    "url": "https://www.egyin.com/article/162126/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF-%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
-   "d": "2026-11-22"
-  },
-  {
-   "en": "An MP filed a draft law requiring developer licences, a public register and a per-project escrow account, with a 7-day buyer cancellation right and fines up to EGP 5m. It is not yet passed.",
-   "ar": "قدّم نائب مشروع قانون يشترط ترخيص المطورين وسجلًا عامًا وحساب ضمان لكل مشروع، مع حق المشتري في الإلغاء خلال 7 أيام وغرامات تصل إلى 5 ملايين جنيه، ولم يُقرّ بعد.",
-   "src": "Egypt Telegraph",
-   "url": "https://www.egypttelegraph.com/article/298119/%D8%AD%D8%A8%D8%B3-%D9%885-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AC%D9%86%D9%8A%D9%87-%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
    "d": "2026-11-22"
   },
   {
@@ -140,8 +140,8 @@
   }
  ],
  "outlook": {
-  "en": "Rebar and cement held steady on 24 November, with main rebar brands at EGP 38,500–40,850 per ton ex-factory and grey cement near EGP 4,200. Developers describe a correction in which buyers favour ready units. The main risks for a small developer are a possible further rate rise on 17 December, a dollar above EGP 54, and new rules on escrow, licensing and late-delivery refunds.",
-  "ar": "استقرت أسعار الحديد والأسمنت يوم 24 نوفمبر، إذ تراوحت أبرز علامات حديد التسليح بين 38,500 و40,850 جنيهًا للطن تسليم المصنع، وبلغ الأسمنت الرمادي نحو 4,200 جنيه. ويصف مطورون السوق بأنه في مرحلة تصحيح يفضّل فيها المشترون الوحدات الجاهزة. وأبرز المخاطر على المطور الصغير احتمال رفع جديد للفائدة في 17 ديسمبر، وتجاوز الدولار 54 جنيهًا، والقواعد المرتقبة بشأن حسابات الضمان والتراخيص واسترداد المبالغ عند تأخر التسليم."
+  "en": "Rebar and factory cement prices held steady on 25 November, with main rebar brands at EGP 38,500–40,850 per ton ex-factory. JLL data show rents rising much faster than sale prices while building costs are up about 19% this year, squeezing developer margins. Key risks are a possible rate rise on 17 December, a dollar near EGP 54, and new rules on licensing, escrow and late delivery.",
+  "ar": "استقرت أسعار حديد التسليح والأسمنت في المصانع يوم 25 نوفمبر، إذ تراوح سعر طن الحديد للعلامات الرئيسية بين 38,500 و40,850 جنيهًا تسليم أرض المصنع. وتُظهر بيانات «جيه إل إل» أن الإيجارات ترتفع بوتيرة أسرع كثيرًا من أسعار البيع، في حين زادت تكاليف البناء نحو 19% هذا العام، ما يضغط على هوامش المطورين. وأبرز المخاطر احتمال رفع الفائدة في 17 ديسمبر، وبقاء الدولار قرب 54 جنيهًا، والقواعد الجديدة المتعلقة بالترخيص وحسابات الضمان والتأخر في التسليم."
  },
  "h": [
   {
@@ -221,6 +221,11 @@
   },
   {
    "d": "2026-11-24",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-25",
    "lo": 25000,
    "hi": 40000
   }
