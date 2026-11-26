@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -97,17 +97,17 @@
  ],
  "news": [
   {
+   "en": "A Real Estate Finance Federation board member said developers price units partly to hedge against higher rates and the dollar; per-m² prices range from about EGP 50,000 to 200,000 between nearby projects.",
+   "ar": "قال عضو بمجلس إدارة الاتحاد المصري للتمويل العقاري إن المطورين يسعّرون الوحدات جزئيًا تحوّطًا من ارتفاع الفائدة والدولار، وإن سعر المتر قد يتراوح بين نحو 50 ألفًا و200 ألف جنيه في مشروعات متجاورة.",
+   "src": "Shorouk News",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=9e2d7238-9970-493e-b9b4-94a94b376c84",
+   "d": "2026-11-24"
+  },
+  {
    "en": "JLL says Q3 rents rose 15.5% in New Cairo and 15% in 6th of October year on year, while sale prices rose only 3.6% and building costs climbed about 19% since January.",
    "ar": "أفادت «جيه إل إل» بارتفاع إيجارات الشقق في الربع الثالث 15.5% بالقاهرة الجديدة و15% بأكتوبر على أساس سنوي، مقابل زيادة 3.6% فقط في أسعار البيع ونحو 19% في تكاليف البناء منذ يناير.",
    "src": "Masrawy",
    "url": "https://www.masrawy.com/news/realestate-news/details/2026/11/24/3083679/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%82%D9%82-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-15-5-%D9%886-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-15-%D8%AE%D9%84%D8%A7%D9%84-2026",
-   "d": "2026-11-24"
-  },
-  {
-   "en": "The dollar eased on 24 November, closing at EGP 54.17 buy and 54.30 sell at the Central Bank.",
-   "ar": "تراجع الدولار في 24 نوفمبر ليُغلق لدى البنك المركزي عند 54.17 جنيه للشراء و54.30 جنيه للبيع.",
-   "src": "Al Aqaria",
-   "url": "https://www.aleqaria.com.eg/post/details/359411/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-31030",
    "d": "2026-11-24"
   },
   {
@@ -140,8 +140,8 @@
   }
  ],
  "outlook": {
-  "en": "Rebar and factory cement prices held steady on 25 November, with main rebar brands at EGP 38,500–40,850 per ton ex-factory. JLL data show rents rising much faster than sale prices while building costs are up about 19% this year, squeezing developer margins. Key risks are a possible rate rise on 17 December, a dollar near EGP 54, and new rules on licensing, escrow and late delivery.",
-  "ar": "استقرت أسعار حديد التسليح والأسمنت في المصانع يوم 25 نوفمبر، إذ تراوح سعر طن الحديد للعلامات الرئيسية بين 38,500 و40,850 جنيهًا تسليم أرض المصنع. وتُظهر بيانات «جيه إل إل» أن الإيجارات ترتفع بوتيرة أسرع كثيرًا من أسعار البيع، في حين زادت تكاليف البناء نحو 19% هذا العام، ما يضغط على هوامش المطورين. وأبرز المخاطر احتمال رفع الفائدة في 17 ديسمبر، وبقاء الدولار قرب 54 جنيهًا، والقواعد الجديدة المتعلقة بالترخيص وحسابات الضمان والتأخر في التسليم."
+  "en": "Ex-factory rebar held at EGP 38,500–40,850 per ton on 26 November and grey cement stayed near EGP 4,200 per ton for consumers. Rents are rising faster than sale prices while building costs are up about 19% this year, and developers are pricing in rate and currency risk. Key risks for a small developer are a possible rate rise on 17 December, squeezed margins, and new rules on licensing and late delivery.",
+  "ar": "استقر سعر حديد التسليح تسليم أرض المصنع بين 38,500 و40,850 جنيهًا للطن في 26 نوفمبر، وبقي الأسمنت الرمادي قرب 4,200 جنيه للطن للمستهلك. وترتفع الإيجارات أسرع من أسعار البيع، في حين زادت تكاليف البناء نحو 19% هذا العام، ويُدخل المطورون مخاطر الفائدة والعملة في التسعير. وأبرز المخاطر لمطور صغير احتمال رفع الفائدة في 17 ديسمبر، وضغط الهوامش، والقواعد الجديدة للترخيص والتأخر في التسليم."
  },
  "h": [
   {
@@ -226,6 +226,11 @@
   },
   {
    "d": "2026-11-25",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-26",
    "lo": 25000,
    "hi": 40000
   }
