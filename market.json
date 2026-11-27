@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,21 +47,39 @@
  },
  "comps": [
   {
-   "en": "7th Zone, main Al Tayaran St., 225 m²",
-   "ar": "الحي السابع، شارع الطيران الرئيسي، 225 م²",
-   "m2": 225,
-   "p": 8200000
+   "en": "7th Zone, 160 m²",
+   "ar": "الحي السابع، 160 م²",
+   "m2": 160,
+   "p": 5300000
   },
   {
-   "en": "7th Zone, International Garden area, 175 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 175 م²",
-   "m2": 175,
-   "p": 5600000
+   "en": "7th Zone, Embassies district, 220 m²",
+   "ar": "الحي السابع، حي السفارات، 220 م²",
+   "m2": 220,
+   "p": 5100000
   },
   {
-   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 200 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 200 م²",
-   "m2": 200,
+   "en": "7th Zone, facing the International Garden, 125 m²",
+   "ar": "الحي السابع، أمام الحديقة الدولية، 125 م²",
+   "m2": 125,
+   "p": 4000000
+  },
+  {
+   "en": "7th Zone, behind the International Garden, 220 m²",
+   "ar": "الحي السابع، خلف الحديقة الدولية، 220 م²",
+   "m2": 220,
+   "p": 9200000
+  },
+  {
+   "en": "7th Zone, 165 m²",
+   "ar": "الحي السابع، 165 م²",
+   "m2": 165,
+   "p": 5500000
+  },
+  {
+   "en": "7th Zone, International Garden area, 185 m²",
+   "ar": "الحي السابع، منطقة الحديقة الدولية، 185 م²",
+   "m2": 185,
    "p": 5500000
   },
   {
@@ -71,36 +89,25 @@
    "p": 5200000
   },
   {
-   "en": "7th Zone, behind the International Garden, 186 m²",
-   "ar": "الحي السابع، خلف الحديقة الدولية، 186 م²",
-   "m2": 186,
-   "p": 6500000
-  },
-  {
-   "en": "7th Zone, International Garden area, 235 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 235 م²",
-   "m2": 235,
-   "p": 5000000
-  },
-  {
-   "en": "7th Zone, International Garden area, 180 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 180 م²",
-   "m2": 180,
-   "p": 6000000
-  },
-  {
-   "en": "7th Zone, garden-view front unit, 180 m²",
-   "ar": "الحي السابع، واجهة مطلة على حديقة، 180 م²",
-   "m2": 180,
-   "p": 5500000
+   "en": "7th Zone, behind the International Garden, 220 m²",
+   "ar": "الحي السابع، خلف الحديقة الدولية، 220 م²",
+   "m2": 220,
+   "p": 7000000
   }
  ],
  "news": [
   {
-   "en": "A Real Estate Finance Federation board member said developers price units partly to hedge against higher rates and the dollar; per-m² prices range from about EGP 50,000 to 200,000 between nearby projects.",
-   "ar": "قال عضو بمجلس إدارة الاتحاد المصري للتمويل العقاري إن المطورين يسعّرون الوحدات جزئيًا تحوّطًا من ارتفاع الفائدة والدولار، وإن سعر المتر قد يتراوح بين نحو 50 ألفًا و200 ألف جنيه في مشروعات متجاورة.",
-   "src": "Shorouk News",
-   "url": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=9e2d7238-9970-493e-b9b4-94a94b376c84",
+   "en": "The Central Bank quoted the dollar at EGP 54.62 buy and 54.76 sell on 26 November, with the local rate broadly flat while the global dollar index eased.",
+   "ar": "سجّل الدولار في البنك المركزي 54.62 جنيهًا للشراء و54.76 للبيع يوم 26 نوفمبر، مع استقرار شبه تام للسعر المحلي رغم تراجع مؤشر الدولار عالميًا.",
+   "src": "Nl7za",
+   "url": "https://nl7za.com/economy/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%84%D9%85-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B1%D8%BA%D9%85-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+   "d": "2026-11-26"
+  },
+  {
+   "en": "A Mortgage Finance Federation official said lender mortgages based on the 21% policy rate can cost 25% or more, against 8–12% under the social housing fund.",
+   "ar": "قال مسؤول بالاتحاد المصري للتمويل العقاري إن التمويل العقاري المرتبط بسعر فائدة المركزي البالغ 21% قد تتجاوز كلفته 25%، مقابل 8% إلى 12% في صندوق الإسكان الاجتماعي.",
+   "src": "Al Aqaria",
+   "url": "https://www.aleqaria.com.eg/post/details/359315/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-02623",
    "d": "2026-11-24"
   },
   {
@@ -111,10 +118,10 @@
    "d": "2026-11-24"
   },
   {
-   "en": "A developer told Masrawy the market is in a major correction under tighter state regulation, with buyers now preferring ready units and income-producing property.",
-   "ar": "قال مطور عقاري لموقع مصراوي إن السوق يمر بمرحلة تصحيح كبيرة مع تشديد الدولة للرقابة، وإن المشترين باتوا يفضّلون الوحدات الجاهزة والأصول المدرّة للعائد.",
+   "en": "A New Cairo developer told Masrawy that higher interest rates may slow demand for a while as savers move money into bank deposits.",
+   "ar": "قال مطور عقاري بالقاهرة الجديدة لموقع مصراوي إن ارتفاع الفائدة قد يبطئ الطلب مؤقتًا مع اتجاه المدخرين إلى الودائع المصرفية.",
    "src": "Masrawy",
-   "url": "https://www.masrawy.com/news/news_egypt/details/2026/11/23/3083345/%D9%85%D8%B7%D9%88%D8%B1-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D9%8A%D9%85%D8%B1-%D8%A8%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%88%D9%86-%D9%8A%D8%AA%D8%AC%D9%87%D9%88%D9%86-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D8%A6%D8%AF-",
+   "url": "https://www.masrawy.com/news/realestate-news/details/2026/11/23/3083004/%D9%85%D8%B7%D9%88%D8%B1-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A7%D8%B9%D9%81%D8%AA-%D8%B9%D8%AF%D8%A9-%D9%85%D8%B1%D8%A7%D8%AA-%D8%AE%D9%84%D8%A7%D9%84-4-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9",
    "d": "2026-11-23"
   },
   {
@@ -130,18 +137,11 @@
    "src": "EgyIn",
    "url": "https://www.egyin.com/article/162126/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF-%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
    "d": "2026-11-22"
-  },
-  {
-   "en": "Aqarmap's November 2026 data puts the average asking price for apartments in Nasr City's 7th Zone at EGP 27,608 per m², up 9.1% over 12 months.",
-   "ar": "تُظهر بيانات عقار ماب لشهر نوفمبر 2026 أن متوسط سعر المتر للشقق في الحي السابع بمدينة نصر بلغ 27,608 جنيهات، بزيادة 9.1% خلال 12 شهرًا.",
-   "src": "Aqarmap",
-   "url": "https://aqarmap.com.eg/ar/neighborhood/cairo/nasr-city/el-hay-el-sabea/",
-   "d": "2026-11-22"
   }
  ],
  "outlook": {
-  "en": "Ex-factory rebar held at EGP 38,500–40,850 per ton on 26 November and grey cement stayed near EGP 4,200 per ton for consumers. Rents are rising faster than sale prices while building costs are up about 19% this year, and developers are pricing in rate and currency risk. Key risks for a small developer are a possible rate rise on 17 December, squeezed margins, and new rules on licensing and late delivery.",
-  "ar": "استقر سعر حديد التسليح تسليم أرض المصنع بين 38,500 و40,850 جنيهًا للطن في 26 نوفمبر، وبقي الأسمنت الرمادي قرب 4,200 جنيه للطن للمستهلك. وترتفع الإيجارات أسرع من أسعار البيع، في حين زادت تكاليف البناء نحو 19% هذا العام، ويُدخل المطورون مخاطر الفائدة والعملة في التسعير. وأبرز المخاطر لمطور صغير احتمال رفع الفائدة في 17 ديسمبر، وضغط الهوامش، والقواعد الجديدة للترخيص والتأخر في التسليم."
+  "en": "Ex-factory rebar held at EGP 38,500–40,850 per ton on 27 November, the average grey cement price eased slightly, and the pound stayed near 54.7 per dollar. Rents are rising faster than sale prices, while bank-rate mortgages above 25% keep many buyers out. Key risks for a small developer are a possible rate rise on 17 December, slower demand as savers favour deposits, and a planned law tightening sales contracts and late-delivery penalties.",
+  "ar": "استقر حديد التسليح تسليم أرض المصنع بين 38,500 و40,850 جنيهًا للطن في 27 نوفمبر، وتراجع متوسط سعر الأسمنت الرمادي قليلًا، وبقي الجنيه قرب 54.7 للدولار. وترتفع الإيجارات أسرع من أسعار البيع، بينما تُبعد كلفة التمويل البنكي التي تتجاوز 25% كثيرًا من المشترين. وأبرز المخاطر لمطور صغير احتمال رفع الفائدة في 17 ديسمبر، وتباطؤ الطلب مع تفضيل المدخرين للودائع، وقانون مرتقب يشدد عقود البيع وغرامات التأخر في التسليم."
  },
  "h": [
   {
@@ -231,6 +231,11 @@
   },
   {
    "d": "2026-11-26",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-27",
    "lo": 25000,
    "hi": 40000
   }
