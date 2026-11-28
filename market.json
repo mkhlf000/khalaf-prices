@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "area": {
   "en": "Nasr City, Cairo · apartments",
   "ar": "مدينة نصر، القاهرة · شقق"
@@ -47,6 +47,24 @@
  },
  "comps": [
   {
+   "en": "7th Zone, main street near Nasr City Court, 200 m²",
+   "ar": "الحي السابع، شارع رئيسي بجوار محكمة مدينة نصر، 200 م²",
+   "m2": 200,
+   "p": 4500000
+  },
+  {
+   "en": "6th Zone, Mostafa El Nahas St., 230 m²",
+   "ar": "الحي السادس، شارع مصطفى النحاس، 230 م²",
+   "m2": 230,
+   "p": 7500000
+  },
+  {
+   "en": "6th Zone, Hafez Ramadan St., new building, 166 m²",
+   "ar": "الحي السادس، شارع حافظ رمضان، مبنى جديد، 166 م²",
+   "m2": 166,
+   "p": 7650000
+  },
+  {
    "en": "7th Zone, 160 m²",
    "ar": "الحي السابع، 160 م²",
    "m2": 160,
@@ -75,24 +93,6 @@
    "ar": "الحي السابع، 165 م²",
    "m2": 165,
    "p": 5500000
-  },
-  {
-   "en": "7th Zone, International Garden area, 185 m²",
-   "ar": "الحي السابع، منطقة الحديقة الدولية، 185 م²",
-   "m2": 185,
-   "p": 5500000
-  },
-  {
-   "en": "7th Zone, Zaker Hussein St. (Al Methaq), 230 m²",
-   "ar": "الحي السابع، شارع ذاكر حسين (الميثاق)، 230 م²",
-   "m2": 230,
-   "p": 5200000
-  },
-  {
-   "en": "7th Zone, behind the International Garden, 220 m²",
-   "ar": "الحي السابع، خلف الحديقة الدولية، 220 م²",
-   "m2": 220,
-   "p": 7000000
   }
  ],
  "news": [
@@ -104,6 +104,13 @@
    "d": "2026-11-26"
   },
   {
+   "en": "JLL says building costs in Greater Cairo rose 19% in the year to September, with finishing up 23%; some developers now offer payment plans of up to 15 years.",
+   "ar": "أفادت جيه إل إل بأن تكاليف البناء في القاهرة الكبرى ارتفعت 19% خلال عام حتى سبتمبر، والتشطيبات 23%، وبعض المطورين يمدّون السداد حتى 15 عامًا.",
+   "src": "Al Mal",
+   "url": "https://almalnews.com/2149610/%D8%AC%D9%8A%D9%87-%D8%A5%D9%84-%D8%A5%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1%D8%A7%D8%AA-19/",
+   "d": "2026-11-25"
+  },
+  {
    "en": "A Mortgage Finance Federation official said lender mortgages based on the 21% policy rate can cost 25% or more, against 8–12% under the social housing fund.",
    "ar": "قال مسؤول بالاتحاد المصري للتمويل العقاري إن التمويل العقاري المرتبط بسعر فائدة المركزي البالغ 21% قد تتجاوز كلفته 25%، مقابل 8% إلى 12% في صندوق الإسكان الاجتماعي.",
    "src": "Al Aqaria",
@@ -111,10 +118,10 @@
    "d": "2026-11-24"
   },
   {
-   "en": "JLL says Q3 rents rose 15.5% in New Cairo and 15% in 6th of October year on year, while sale prices rose only 3.6% and building costs climbed about 19% since January.",
-   "ar": "أفادت «جيه إل إل» بارتفاع إيجارات الشقق في الربع الثالث 15.5% بالقاهرة الجديدة و15% بأكتوبر على أساس سنوي، مقابل زيادة 3.6% فقط في أسعار البيع ونحو 19% في تكاليف البناء منذ يناير.",
-   "src": "Masrawy",
-   "url": "https://www.masrawy.com/news/realestate-news/details/2026/11/24/3083679/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%82%D9%82-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-15-5-%D9%886-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-15-%D8%AE%D9%84%D8%A7%D9%84-2026",
+   "en": "Bloom Gate's property bulletin puts inflation at 13.9% and bank rates at 20% for deposits and 21% for lending after October's 1-point hike.",
+   "ar": "ذكرت نشرة بلوم العقارية أن التضخم بلغ 13.9% وأن الفائدة وصلت إلى 20% للإيداع و21% للإقراض بعد رفعها نقطة مئوية في أكتوبر.",
+   "src": "Bloom Gate",
+   "url": "https://bloom-gate.com/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A8%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D8%AF-232/",
    "d": "2026-11-24"
   },
   {
@@ -130,18 +137,11 @@
    "src": "EgyIn",
    "url": "https://www.egyin.com/article/162401/%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%84",
    "d": "2026-11-23"
-  },
-  {
-   "en": "The Housing Ministry is studying a market law with an independent developer regulator, a developers' union that grades firms, a standard sales contract, and a full refund or fine when delivery is late.",
-   "ar": "تدرس وزارة الإسكان قانونًا للسوق العقارية يتضمن هيئة مستقلة للرقابة على المطورين، واتحادًا يصنّف الشركات، وعقدًا موحدًا، واسترداد المبالغ كاملة أو غرامة عند التأخر في التسليم.",
-   "src": "EgyIn",
-   "url": "https://www.egyin.com/article/162126/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF-%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
-   "d": "2026-11-22"
   }
  ],
  "outlook": {
-  "en": "Ex-factory rebar held at EGP 38,500–40,850 per ton on 27 November, the average grey cement price eased slightly, and the pound stayed near 54.7 per dollar. Rents are rising faster than sale prices, while bank-rate mortgages above 25% keep many buyers out. Key risks for a small developer are a possible rate rise on 17 December, slower demand as savers favour deposits, and a planned law tightening sales contracts and late-delivery penalties.",
-  "ar": "استقر حديد التسليح تسليم أرض المصنع بين 38,500 و40,850 جنيهًا للطن في 27 نوفمبر، وتراجع متوسط سعر الأسمنت الرمادي قليلًا، وبقي الجنيه قرب 54.7 للدولار. وترتفع الإيجارات أسرع من أسعار البيع، بينما تُبعد كلفة التمويل البنكي التي تتجاوز 25% كثيرًا من المشترين. وأبرز المخاطر لمطور صغير احتمال رفع الفائدة في 17 ديسمبر، وتباطؤ الطلب مع تفضيل المدخرين للودائع، وقانون مرتقب يشدد عقود البيع وغرامات التأخر في التسليم."
+  "en": "Factory rebar prices held at EGP 38,500–40,850 per ton on 28 November and average grey cement eased slightly, but JLL reports building costs up 19% in a year and finishing up 23%. With inflation near 14% and lending rates at 21%, mortgages stay costly. Main risks for a small developer are another rate rise on 17 December, buyers favouring bank deposits, and margin pressure from rising finishing costs.",
+  "ar": "استقرت أسعار حديد التسليح تسليم المصنع بين 38,500 و40,850 جنيهًا للطن في 28 نوفمبر، وتراجع متوسط سعر الأسمنت الرمادي قليلًا، غير أن جيه إل إل تشير إلى ارتفاع تكاليف البناء 19% خلال عام والتشطيبات 23%. ومع تضخم يقارب 14% وفائدة إقراض 21% يظل التمويل العقاري مكلفًا. وأبرز المخاطر على المطور الصغير احتمال رفع جديد للفائدة في 17 ديسمبر، وتفضيل المشترين للودائع البنكية، وضغط ارتفاع تكاليف التشطيب على الهوامش."
  },
  "h": [
   {
@@ -236,6 +236,11 @@
   },
   {
    "d": "2026-11-27",
+   "lo": 25000,
+   "hi": 40000
+  },
+  {
+   "d": "2026-11-28",
    "lo": 25000,
    "hi": 40000
   }
